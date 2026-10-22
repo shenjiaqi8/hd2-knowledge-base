@@ -1,0 +1,40 @@
+name: Update HD2 Markdown Knowledge Base
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 * * *' # 03:15 UTC daily; may be delayed by GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hd2-knowledge-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate Markdown knowledge base
+        run: |
+          python scripts/hd2_to_markdown.py --out knowledge --scope gameplay --aliases-csv config/aliases_zh.csv
+      - name: Commit and push only changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- knowledge
+          if git diff --cached --quiet; then
+            echo "No knowledge-base changes."
+            exit 0
+          fi
+          git commit -m "chore(data): refresh HD2 Markdown knowledge base"
+          git push

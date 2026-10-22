@@ -1,0 +1,23 @@
+{
+  "inputMode": "sync",
+  "sourceName": "api",
+  "sourceBase": "https://helldivers-api.dionatha.com.br/v1",
+  "generatedAt": "2026-10-21T23:58:40Z",
+  "dataVersion": "2026-10-21.fb36bb01",
+  "completeForScope": true,
+  "scope": "gameplay",
+  "fileCount": 557,
+  "collections": {
+    "armor-sets": 113,
+    "armors": 113,
+    "boosters": 20,
+    "passives": 32,
+    "stratagems": 117,
+    "warbonds": 26,
+    "weapon-traits": 28,
+    "weapons": 108
+  },
+  "license": "CC BY-NC-SA 4.0; verify source page where applicable",
+  "sourceRepository": "https://github.com/DionathaGoulart/Helldivers-api",
+  "wiki": "https://helldivers.wiki.gg/"
+}

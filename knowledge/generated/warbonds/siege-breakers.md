@@ -1,0 +1,194 @@
+---
+id: "siege-breakers"
+name: "Siege Breakers"
+collection: "warbonds"
+aliases: []
+status: "released"
+data_version: "2026-10-21.fb36bb01"
+wiki_flags: []
+wiki_url: "https://helldivers.wiki.gg/wiki/Siege_Breakers_Premium_Warbond"
+source_api_url: "https://helldivers-api.dionatha.com.br/v1/warbonds/siege-breakers.json"
+---
+
+# Siege Breakers
+
+**分类：** 战争债券 (`warbonds`) · **ID：** `siege-breakers`
+
+**Wiki 原始词条：** https://helldivers.wiki.gg/wiki/Siege_Breakers_Premium_Warbond
+
+## 简介
+
+Siege Breakers is a Premium Warbond available for 1,000 Super Credits in the Warbonds tab of the Acquisition Center.
+
+## 主要属性
+
+| 字段 | 数值 |
+|---|---|
+| `type` | premium |
+| `releaseDate` | 2026-02-03 |
+| `cost.currency` | super_credits |
+| `cost.amount` | 1000 |
+| `superCreditsClaimable` | 300 |
+| `medalsAllPages` | 375 |
+| `medalsAllItems` | 853 |
+| `pages\[1\].number` | 1 |
+| `pages\[1\].items\[1\].name` | LAS-16 Trident |
+| `pages\[1\].items\[1\].wikiType` | Energy-Based |
+| `pages\[1\].items\[1\].ref.collection` | weapons |
+| `pages\[1\].items\[1\].ref.id` | las-13-trident |
+| `pages\[1\].items\[1\].ref.variant` | — |
+| `pages\[1\].items\[1\].cost.currency` | medals |
+| `pages\[1\].items\[1\].cost.amount` | 35 |
+| `pages\[1\].items\[2\].name` | SA-7 Headfirst |
+| `pages\[1\].items\[2\].wikiType` | Medium Armor |
+| `pages\[1\].items\[2\].ref.collection` | armors |
+| `pages\[1\].items\[2\].ref.id` | sa-7-headfirst |
+| `pages\[1\].items\[2\].ref.variant` | — |
+| `pages\[1\].items\[2\].cost.currency` | medals |
+| `pages\[1\].items\[2\].cost.amount` | 45 |
+| `pages\[1\].items\[3\].name` | 100 Super Credits |
+| `pages\[1\].items\[3\].wikiType` | Currency |
+| `pages\[1\].items\[3\].ref` | — |
+| `pages\[1\].items\[3\].cost.currency` | medals |
+| `pages\[1\].items\[3\].cost.amount` | 7 |
+| `pages\[1\].items\[4\].name` | SA-7 Headfirst |
+| `pages\[1\].items\[4\].wikiType` | Helmet |
+| `pages\[1\].items\[4\].ref.collection` | helmets |
+| `pages\[1\].items\[4\].ref.id` | sa-7-headfirst |
+| `pages\[1\].items\[4\].ref.variant` | — |
+| `pages\[1\].items\[4\].cost.currency` | medals |
+| `pages\[1\].items\[4\].cost.amount` | 30 |
+| `pages\[1\].items\[5\].name` | Rags of the Fashionable |
+| `pages\[1\].items\[5\].wikiType` | Cape |
+| `pages\[1\].items\[5\].ref.collection` | capes |
+| `pages\[1\].items\[5\].ref.id` | rags-of-the-fashionable |
+| `pages\[1\].items\[5\].ref.variant` | — |
+| `pages\[1\].items\[5\].cost.currency` | medals |
+| `pages\[1\].items\[5\].cost.amount` | 8 |
+| `pages\[1\].items\[6\].name` | Rags of the Fashionable |
+| `pages\[1\].items\[6\].wikiType` | Player Card |
+| `pages\[1\].items\[6\].ref.collection` | player-cards |
+| `pages\[1\].items\[6\].ref.id` | rags-of-the-fashionable |
+| `pages\[1\].items\[6\].ref.variant` | — |
+| `pages\[1\].items\[6\].cost.currency` | medals |
+| `pages\[1\].items\[6\].cost.amount` | 2 |
+| `pages\[1\].items\[7\].name` | Churned Earth Hellpod |
+| `pages\[1\].items\[7\].wikiType` | Pattern |
+| `pages\[1\].items\[7\].ref.collection` | patterns |
+| `pages\[1\].items\[7\].ref.id` | churned-earth |
+| `pages\[1\].items\[7\].ref.variant` | hellpod |
+| `pages\[1\].items\[7\].cost.currency` | medals |
+| `pages\[1\].items\[7\].cost.amount` | 20 |
+| `pages\[1\].items\[8\].name` | CQC-20 Breaching Hammer |
+| `pages\[1\].items\[8\].wikiType` | Support Weapon |
+| `pages\[1\].items\[8\].ref.collection` | stratagems |
+| `pages\[1\].items\[8\].ref.id` | cqc-20-breaching-hammer |
+| `pages\[1\].items\[8\].ref.variant` | — |
+| `pages\[1\].items\[8\].cost.currency` | medals |
+| `pages\[1\].items\[8\].cost.amount` | 75 |
+| `pages\[2\].number` | 2 |
+| `pages\[2\].items\[1\].name` | EAT-411 Leveller |
+| `pages\[2\].items\[1\].wikiType` | Support Weapon |
+| `pages\[2\].items\[1\].ref.collection` | stratagems |
+| `pages\[2\].items\[1\].ref.id` | eat-411-leveller |
+| `pages\[2\].items\[1\].ref.variant` | — |
+| `pages\[2\].items\[1\].cost.currency` | medals |
+| `pages\[2\].items\[1\].cost.amount` | 85 |
+| `pages\[2\].items\[2\].name` | Churned Earth Shuttle |
+| `pages\[2\].items\[2\].wikiType` | Pattern |
+| `pages\[2\].items\[2\].ref.collection` | patterns |
+| `pages\[2\].items\[2\].ref.id` | churned-earth |
+| `pages\[2\].items\[2\].ref.variant` | shuttle |
+| `pages\[2\].items\[2\].cost.currency` | medals |
+| `pages\[2\].items\[2\].cost.amount` | 50 |
+| `pages\[2\].items\[3\].name` | Wedgeful Tricorn |
+| `pages\[2\].items\[3\].wikiType` | Player Card |
+| `pages\[2\].items\[3\].ref.collection` | player-cards |
+| `pages\[2\].items\[3\].ref.id` | wedgeful-tricorn |
+| `pages\[2\].items\[3\].ref.variant` | — |
+| `pages\[2\].items\[3\].cost.currency` | medals |
+| `pages\[2\].items\[3\].cost.amount` | 7 |
+| `pages\[2\].items\[4\].name` | 100 Super Credits |
+| `pages\[2\].items\[4\].wikiType` | Currency |
+| `pages\[2\].items\[4\].ref` | — |
+| `pages\[2\].items\[4\].cost.currency` | medals |
+| `pages\[2\].items\[4\].cost.amount` | 12 |
+| `pages\[2\].items\[5\].name` | SA-8 Ram |
+| `pages\[2\].items\[5\].wikiType` | Heavy Armor |
+| `pages\[2\].items\[5\].ref.collection` | armors |
+| `pages\[2\].items\[5\].ref.id` | sa-8-ram |
+| `pages\[2\].items\[5\].ref.variant` | — |
+| `pages\[2\].items\[5\].cost.currency` | medals |
+| `pages\[2\].items\[5\].cost.amount` | 55 |
+| `pages\[2\].items\[6\].name` | SA-8 Ram |
+| `pages\[2\].items\[6\].wikiType` | Helmet |
+| `pages\[2\].items\[6\].ref.collection` | helmets |
+| `pages\[2\].items\[6\].ref.id` | sa-8-ram |
+| `pages\[2\].items\[6\].ref.variant` | — |
+| `pages\[2\].items\[6\].cost.currency` | medals |
+| `pages\[2\].items\[6\].cost.amount` | 45 |
+| `pages\[2\].items\[7\].name` | Wedgeful Tricorn |
+| `pages\[2\].items\[7\].wikiType` | Cape |
+| `pages\[2\].items\[7\].ref.collection` | capes |
+| `pages\[2\].items\[7\].ref.id` | wedgeful-tricorn |
+| `pages\[2\].items\[7\].ref.variant` | — |
+| `pages\[2\].items\[7\].cost.currency` | medals |
+| `pages\[2\].items\[7\].cost.amount` | 25 |
+| `pages\[3\].number` | 3 |
+| `pages\[3\].items\[1\].name` | Churned Earth Vehicle |
+| `pages\[3\].items\[1\].wikiType` | Pattern |
+| `pages\[3\].items\[1\].ref.collection` | patterns |
+| `pages\[3\].items\[1\].ref.id` | churned-earth |
+| `pages\[3\].items\[1\].ref.variant` | vehicle |
+| `pages\[3\].items\[1\].cost.currency` | medals |
+| `pages\[3\].items\[1\].cost.amount` | 55 |
+| `pages\[3\].items\[2\].name` | Bunker Buster |
+| `pages\[3\].items\[2\].wikiType` | Title |
+| `pages\[3\].items\[2\].ref.collection` | titles |
+| `pages\[3\].items\[2\].ref.id` | bunker-buster |
+| `pages\[3\].items\[2\].ref.variant` | — |
+| `pages\[3\].items\[2\].cost.currency` | medals |
+| `pages\[3\].items\[2\].cost.amount` | 20 |
+| `pages\[3\].items\[3\].name` | GL-28 Belt-Fed Grenade Launcher |
+| `pages\[3\].items\[3\].wikiType` | Support Weapon |
+| `pages\[3\].items\[3\].ref.collection` | stratagems |
+| `pages\[3\].items\[3\].ref.id` | gl-28-belt-fed-grenade-launcher |
+| `pages\[3\].items\[3\].ref.variant` | — |
+| `pages\[3\].items\[3\].cost.currency` | medals |
+| `pages\[3\].items\[3\].cost.amount` | 110 |
+| `pages\[3\].items\[4\].name` | 100 Super Credits |
+| `pages\[3\].items\[4\].wikiType` | Currency |
+| `pages\[3\].items\[4\].ref` | — |
+| `pages\[3\].items\[4\].cost.currency` | medals |
+| `pages\[3\].items\[4\].cost.amount` | 32 |
+| `pages\[3\].items\[5\].name` | Display of Brawn |
+| `pages\[3\].items\[5\].wikiType` | Emote |
+| `pages\[3\].items\[5\].ref.collection` | emotes |
+| `pages\[3\].items\[5\].ref.id` | display-of-brawn |
+| `pages\[3\].items\[5\].ref.variant` | — |
+| `pages\[3\].items\[5\].cost.currency` | medals |
+| `pages\[3\].items\[5\].cost.amount` | 20 |
+| `pages\[3\].items\[6\].name` | G/SH-39 Shield |
+| `pages\[3\].items\[6\].wikiType` | Throwable |
+| `pages\[3\].items\[6\].ref.collection` | weapons |
+| `pages\[3\].items\[6\].ref.id` | g-sh-39-shield |
+| `pages\[3\].items\[6\].ref.variant` | — |
+| `pages\[3\].items\[6\].cost.currency` | medals |
+| `pages\[3\].items\[6\].cost.amount` | 65 |
+| `pages\[3\].items\[7\].name` | Churned Earth Exosuit |
+| `pages\[3\].items\[7\].wikiType` | Pattern |
+| `pages\[3\].items\[7\].ref.collection` | patterns |
+| `pages\[3\].items\[7\].ref.id` | churned-earth |
+| `pages\[3\].items\[7\].ref.variant` | exosuit |
+| `pages\[3\].items\[7\].cost.currency` | medals |
+| `pages\[3\].items\[7\].cost.amount` | 50 |
+
+
+## 数据来源与许可
+
+- 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
+- API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/siege-breakers.json
+- Wiki 词条：https://helldivers.wiki.gg/wiki/Siege_Breakers_Premium_Warbond
+- 数据版本：`2026-10-21.fb36bb01`
+- 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
+

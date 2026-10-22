@@ -1,0 +1,34 @@
+---
+id: "tr-117-alpha-commander"
+name: "TR-117 Alpha Commander"
+collection: "armor-sets"
+aliases: []
+status: "released"
+data_version: "2026-10-21.fb36bb01"
+wiki_flags: []
+wiki_url: "https://helldivers.wiki.gg/wiki/TR-117_Alpha_Commander"
+source_api_url: "https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-117-alpha-commander.json"
+---
+
+# TR-117 Alpha Commander
+
+**分类：** 护甲套装 (`armor-sets`) · **ID：** `tr-117-alpha-commander`
+
+**Wiki 原始词条：** https://helldivers.wiki.gg/wiki/TR-117_Alpha_Commander
+
+## 主要属性
+
+| 字段 | 数值 |
+|---|---|
+| `armorId` | tr-117-alpha-commander |
+| `helmetId` | tr-117-alpha-commander |
+
+
+## 数据来源与许可
+
+- 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
+- API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-117-alpha-commander.json
+- Wiki 词条：https://helldivers.wiki.gg/wiki/TR-117_Alpha_Commander
+- 数据版本：`2026-10-21.fb36bb01`
+- 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
+

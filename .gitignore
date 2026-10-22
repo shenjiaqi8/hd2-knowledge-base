@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+.generated-stage/
+.generated-backup/
+knowledge/.generated-stage/
+knowledge/.generated-backup/
+.DS_Store
+Thumbs.db
