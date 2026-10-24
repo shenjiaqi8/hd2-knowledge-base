@@ -305,7 +305,7 @@ def render(entity: dict, collection: str, info: dict, alias_add: list[str], incl
     return "\n".join(front + body) + "\n"
 
 
-def build(out: Path, rows: dict, info: dict, meta: dict, aliases: dict, include_raw: bool, scope: str):
+def _build_individual(out: Path, rows: dict, info: dict, meta: dict, aliases: dict, include_raw: bool, scope: str):
     out.mkdir(parents=True, exist_ok=True)
     stage = out / ".generated-stage"
     current = out / "generated"
@@ -367,6 +367,16 @@ def build(out: Path, rows: dict, info: dict, meta: dict, aliases: dict, include_
     finally:
         if stage.exists():
             shutil.rmtree(stage)
+
+
+def build(out: Path, rows: dict, info: dict, meta: dict, aliases: dict, include_raw: bool, scope: str):
+    # Generate faithful item pages using the original converter, then combine
+    # every category into one Markdown. The final repository contains only
+    # generated/<category>.md, never hundreds of tiny pages.
+    from consolidate_categories import consolidate
+    _build_individual(out, rows, info, meta, aliases, include_raw, scope)
+    stats = consolidate(out)
+    print(f"Consolidated into {len(stats)} Markdown category files.")
 
 
 def main():

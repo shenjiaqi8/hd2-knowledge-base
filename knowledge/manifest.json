@@ -6,7 +6,7 @@
   "dataVersion": "2026-10-21.fb36bb01",
   "completeForScope": true,
   "scope": "gameplay",
-  "fileCount": 557,
+  "fileCount": 8,
   "collections": {
     "armor-sets": 113,
     "armors": 113,
@@ -19,5 +19,7 @@
   },
   "license": "CC BY-NC-SA 4.0; verify source page where applicable",
   "sourceRepository": "https://github.com/DionathaGoulart/Helldivers-api",
-  "wiki": "https://helldivers.wiki.gg/"
+  "wiki": "https://helldivers.wiki.gg/",
+  "entityCount": 557,
+  "layout": "one-file-per-category"
 }
