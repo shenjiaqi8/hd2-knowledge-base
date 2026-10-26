@@ -131,6 +131,8 @@
 
 **分类：** 战略配备 (`stratagems`) · **ID：** `40-k-meltagun`
 
+> ⚠️ 原始 Wiki 数据被标记为 `potentially_outdated`，数值请结合最新补丁核对。
+
 **Wiki 原始词条：** https://helldivers.wiki.gg/wiki/40-K_Meltagun
 
 ### 简介
@@ -246,7 +248,7 @@ The 40-K Meltagun is a Stratagem that calls down a Support Weapon that fires a s
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/40-k-meltagun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/40-K_Meltagun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -370,7 +372,7 @@ The A/AC-8 Autocannon Sentry is a powerful defensive stratagem firing armor-pier
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-ac-8-autocannon-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/AC-8_Autocannon_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -466,7 +468,7 @@ The A/ARC-3 Tesla Tower is a Sentry that sends electric arcs toward all entities
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-arc-3-tesla-tower.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/ARC-3_Tesla_Tower
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -638,7 +640,7 @@ The Flame Sentry is a close-range incendiary sentry stratagem.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-flam-40-flame-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/FLAM-40_Flame_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -742,7 +744,7 @@ The A/G-16 Gatling Sentry is a defensive stratagem that fires at an extremely fa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-g-16-gatling-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/G-16_Gatling_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -903,7 +905,7 @@ The A/GM-17 Gas Mortar Sentry is a powerful defensive stratagem able to deploy g
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-gm-17-gas-mortar-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/GM-17_Gas_Mortar_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1015,7 +1017,7 @@ The Laser Sentry is a close-range incendiary sentry stratagem from the Control G
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-las-98-laser-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/LAS-98_Laser_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1142,7 +1144,7 @@ The A/M-12 Mortar Sentry is a very powerful defensive stratagem able to destroy 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-m-12-mortar-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/M-12_Mortar_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1307,7 +1309,7 @@ The A/M-23 EMS Mortar Sentry is a defensive stratagem. It is a mortar sentry rec
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-m-23-ems-mortar-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/M-23_EMS_Mortar_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1411,7 +1413,7 @@ The A/MG-43 Machine Gun Sentry is a defensive stratagem capable of laying down s
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-mg-43-machine-gun-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/MG-43_Machine_Gun_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1555,7 +1557,7 @@ The A/MLS-4X Rocket Sentry is a defensive stratagem that fires powerful rockets 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/a-mls-4x-rocket-sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A/MLS-4X_Rocket_Sentry
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1735,7 +1737,7 @@ The AC-8 Autocannon is a Support Weapon that fires explosive, armor-piercing APH
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ac-8-autocannon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AC-8_Autocannon
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1784,7 +1786,7 @@ The Activate E-711 Extraction Drill Stratagem allows Helldivers to activate the 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/activate-e-711-extraction-drill.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Activate_E-711_Extraction_Drill
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1876,7 +1878,7 @@ The AMW-20 Apex is a Support Weapon that deploys a high-powered anti-materiel ri
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/amw-20-apex.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AMW-20_Apex
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1975,7 +1977,7 @@ The Anti-Materiel Rifle (abbreviated as AMR) is a precision Support Weapon able 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/apw-1-anti-materiel-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/APW-1_Anti-Materiel_Rifle
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2024,7 +2026,7 @@ The Aquifer Drill Stratagem is only available during the Infiltrate Illuminate L
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/aquifer-drill.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Aquifer_Drill
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2128,7 +2130,7 @@ The Arc Thrower is a support weapon that projects an arc of lightning that can c
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/arc-3-arc-thrower.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/ARC-3_Arc_Thrower
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2219,7 +2221,7 @@ The AX/AR-23 Guard Dog is a Stratagem that calls down a defensive drone that is 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ax-ar-23-guard-dog.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AX/AR-23_Guard_Dog
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2321,7 +2323,7 @@ The AX/ARC-3 K-9 is a backpack Stratagem that provides support to the player by 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ax-arc-3-k-9.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AX/ARC-3_K-9
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2462,7 +2464,7 @@ The AX/FLAM-75 Hot Dog is a backpack Stratagem that provides support to the play
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ax-flam-75-hot-dog.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AX/FLAM-75_Hot_Dog
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2566,7 +2568,7 @@ The AX/LAS-5 Rover is a backpack Stratagem that provides fire support fire to th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ax-las-5-rover.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AX/LAS-5_Rover
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2686,7 +2688,7 @@ The AX/TX-13 Dog Breath is a backpack Stratagem that provides defensive support 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ax-tx-13-dog-breath.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AX/TX-13_Dog_Breath
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2752,7 +2754,7 @@ The Supply Pack is a backpack stratagem allows Helldivers to carry supplies to s
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/b-1-supply-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-1_Supply_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2838,7 +2840,7 @@ The Portable Hellbomb is a backpack Stratagem that grants the player the utility
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/b-100-portable-hellbomb.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-100_Portable_Hellbomb
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2979,7 +2981,7 @@ The B/FLAM-80 Cremator is a Stratagem that calls down a Support Weapon consistin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/b-flam-80-cremator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B/FLAM-80_Cremator
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3065,7 +3067,7 @@ The B/MD C4 Pack is a Support Weapon Stratagem backpack filled with bricks of C4
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/b-md-c4-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B/MD_C4_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3110,7 +3112,7 @@ The Call In Super Destroyer Stratagem is a used to call in a Helldiver's Super D
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/call-in-super-destroyer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Call_In_Super_Destroyer
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3159,7 +3161,7 @@ The Cargo Container Stratagem allows Helldivers to call down a Pelican carrying 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/cargo-container.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Cargo_Container
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3240,7 +3242,7 @@ The One True Flag is a Melee Support Weapon. Attacking will thrust the One True 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/cqc-1-one-true-flag.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-1_One_True_Flag
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3248,6 +3250,8 @@ The One True Flag is a Melee Support Weapon. Attacking will thrust the One True 
 ## CQC-20 Breaching Hammer
 
 **分类：** 战略配备 (`stratagems`) · **ID：** `cqc-20-breaching-hammer`
+
+> ⚠️ 原始 Wiki 数据被标记为 `potentially_outdated`，数值请结合最新补丁核对。
 
 **Wiki 原始词条：** https://helldivers.wiki.gg/wiki/CQC-20_Breaching_Hammer
 
@@ -3345,7 +3349,7 @@ The CQC-20 Breaching Hammer is a Melee Support Weapon, which is capable of deali
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/cqc-20-breaching-hammer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-20_Breaching_Hammer
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3426,7 +3430,7 @@ The CQC-9 Defoliation Tool is a Melee Support Weapon, which is capable of dealin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/cqc-9-defoliation-tool.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-9_Defoliation_Tool
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3475,7 +3479,7 @@ The Dark Fluid Vessel Stratagem allows Helldivers to call down a Hellpod contain
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/dark-fluid-vessel.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Dark_Fluid_Vessel
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3585,7 +3589,7 @@ The Anti-Tank Emplacement, shortened to AT Emplacement or ATE, is a Stratagem th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/e-at-12-anti-tank-emplacement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/E/AT-12_Anti-Tank_Emplacement
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3697,7 +3701,7 @@ The Grenadier Battlement is an Stratagem that deploys ballistic cover with a mou
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/e-gl-21-grenadier-battlement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/E/GL-21_Grenadier_Battlement
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3789,7 +3793,7 @@ The HMG Emplacement is a Stratagem that deploys a static, manually operated mach
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/e-mg-101-hmg-emplacement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/E/MG-101_HMG_Emplacement
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3903,7 +3907,7 @@ The Eagle 110mm Rocket Pods is an offensive stratagem that sends out 3 volleys o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-110mm-rocket-pods.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_110mm_Rocket_Pods
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4040,7 +4044,7 @@ The Eagle 500kg Bomb, also known as the 500kg, is an offensive stratagem which d
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-500kg-bomb.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_500kg_Bomb
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4160,7 +4164,7 @@ The Eagle Airstrike is an offensive stratagem that unleashes a powerful bombardm
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-airstrike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Airstrike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4323,7 +4327,7 @@ The Eagle Cluster Bomb is an offensive stratagem that calls in a carpet bomb on 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-cluster-bomb.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Cluster_Bomb
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4331,6 +4335,8 @@ The Eagle Cluster Bomb is an offensive stratagem that calls in a carpet bomb on 
 ## Eagle Gas Airstrike
 
 **分类：** 战略配备 (`stratagems`) · **ID：** `eagle-gas-airstrike`
+
+> ⚠️ 原始 Wiki 数据被标记为 `potentially_outdated`，数值请结合最新补丁核对。
 
 **Wiki 原始词条：** https://helldivers.wiki.gg/wiki/Eagle_Gas_Airstrike
 
@@ -4474,7 +4480,7 @@ The Eagle Gas Airstrike is an offensive stratagem that releases an gas payload t
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-gas-airstrike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Gas_Airstrike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4633,7 +4639,7 @@ The Eagle Napalm Airstrike is an offensive stratagem that releases an incendiary
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-napalm-airstrike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Napalm_Airstrike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4682,7 +4688,7 @@ The Eagle Rearm Stratagem is used to send the Eagle back to the Super Destroyer 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-rearm.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Rearm
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4802,7 +4808,7 @@ The Eagle Smoke Strike is an offensive stratagem that drops several smoke bombs 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-smoke-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Smoke_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4919,7 +4925,7 @@ The Eagle Strafing Run is an offensive stratagem that calls the Eagle in to fire
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eagle-strafing-run.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Eagle_Strafing_Run
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5049,7 +5055,7 @@ The EAT-17 Expendable Anti-Tank (abbreviated as EAT) is a Stratagem that calls d
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eat-17-expendable-anti-tank.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EAT-17_Expendable_Anti-Tank
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5175,7 +5181,7 @@ The EAT-411 Leveller is a Stratagem that calls down a single disposable large ar
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eat-411-leveller.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EAT-411_Leveller
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5380,7 +5386,7 @@ The EAT-700 Expendable Napalm or NEAT for short is a Stratagem that calls down 2
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/eat-700-expendable-napalm.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EAT-700_Expendable_Napalm
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5566,7 +5572,7 @@ The EXO-45 Patriot Exosuit is an Exosuit Stratagem featuring a rocket pod on the
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/exo-45-patriot-exosuit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EXO-45_Patriot_Exosuit
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5709,7 +5715,7 @@ The EXO-49 Emancipator Exosuit is an Exosuit Stratagem featuring 2 dual autocann
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/exo-49-emancipator-exosuit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EXO-49_Emancipator_Exosuit
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5922,7 +5928,7 @@ The EXO-51 Lumberer Exosuit is an Exosuit Stratagem featuring an anti-tank canno
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/exo-51-lumberer-exosuit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EXO-51_Lumberer_Exosuit
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6061,7 +6067,7 @@ The EXO-55 Breakthrough Exosuit is an Exosuit Stratagem featuring a heavy flak c
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/exo-55-breakthrough-exosuit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EXO-55_Breakthrough_Exosuit
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6175,7 +6181,7 @@ The FAF-14 Spear (often shortened to the Spear) is a reloadable anti-tank Suppor
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/faf-14-spear.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FAF-14_Spear
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6324,7 +6330,7 @@ The FLAM-40 Flamethrower is a Support weapon capable of projecting flames severa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/flam-40-flamethrower.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FLAM-40_Flamethrower
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6391,7 +6397,7 @@ The FX-12 Shield Generator Relay is a static defensive stratagem that projects a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/fx-12-shield-generator-relay.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FX-12_Shield_Generator_Relay
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6508,7 +6514,7 @@ The Grenade Launcher is a Stratagem that calls down a Support Weapon capable of 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/gl-21-grenade-launcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GL-21_Grenade_Launcher
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6619,7 +6625,7 @@ The GL-28 Belt-Fed Grenade Launcher (BFGL) is a Stratagem that calls down a Supp
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/gl-28-belt-fed-grenade-launcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GL-28_Belt-Fed_Grenade_Launcher
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6770,7 +6776,7 @@ The GL-52 De-Escalator is a Stratagem that calls down a Support Weapon capable o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/gl-52-de-escalator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GL-52_De-Escalator
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6949,7 +6955,7 @@ The GR-8 Recoilless Rifle (abbreviated as RR) is a reloadable anti-tank Support 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/gr-8-recoilless-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GR-8_Recoilless_Rifle
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7022,7 +7028,7 @@ Helldivers must enter the following sequence in order to call down this special 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/nux-223-hellbomb.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/NUX-223_Hellbomb
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7071,7 +7077,7 @@ The Hive Breaker Drill Stratagem is only available on the Nuke Nursery mission a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/hive-breaker-drill.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Hive_Breaker_Drill
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7137,7 +7143,7 @@ The Hover Pack is a backpack stratagem. When activated, it propels the wearer in
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/lift-860-hover-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LIFT-860_Hover_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7229,7 +7235,7 @@ The LAS-44 Nova is a Support Weapon that deploys a high-powered, energy-based sn
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/las-44-nova.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-44_Nova
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7339,7 +7345,7 @@ The Laser Cannon is a heat-based support weapon that fires a sustained beam of e
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/las-98-laser-cannon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-98_Laser_Cannon
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7447,7 +7453,7 @@ The Quasar Cannon is an energy-based anti-tank Support Weapon Stratagem.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/las-99-quasar-cannon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-99_Quasar_Cannon
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7551,7 +7557,7 @@ The Warp Pack significantly increases the wearer's mobility. When activated, Hel
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/lift-182-warp-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LIFT-182_Warp_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7617,7 +7623,7 @@ The Jump Pack significantly increases the wearer's mobility. When activated, the
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/lift-850-jump-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LIFT-850_Jump_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7664,7 +7670,7 @@ Reinforcement Pods is a Commando Mission exclusive Optional Objective in Helldiv
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/reinforcement-pods.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Reinforcement_Pods
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7753,7 +7759,7 @@ The M-1000 Maxigun is a Stratagem that calls down a Support Weapon, consisting o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/m-1000-maxigun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M-1000_Maxigun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7834,7 +7840,7 @@ The M-102 Gunner FRV is a Stratagem that deploys a four-wheeled ground vehicle w
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/m-102-gunner-frv.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M-102_Gunner_FRV
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7915,7 +7921,7 @@ The M-103 Supply FRV is a Stratagem that deploys a four-wheeled ground vehicle, 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/m-103-supply-frv.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M-103_Supply_FRV
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8062,7 +8068,7 @@ The M-104 Incinerator FRV is a Stratagem that deploys an armored four-wheeled gr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/m-104-incinerator-frv.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M-104_Incinerator_FRV
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8159,7 +8165,7 @@ The Stalwart is a Stratagem which calls down a Support Weapon which specializes 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/m-105-stalwart.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M-105_Stalwart
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8248,7 +8254,7 @@ The MD-17 Anti-Tank Mines (simply known as AT Mines) are a defensive Stratagem w
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/md-17-anti-tank-mines.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MD-17_Anti-Tank_Mines
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8337,7 +8343,7 @@ The MD-6 Anti-Personnel Minefield is a defensive stratagem that blankets a rough
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/md-6-anti-personnel-minefield.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MD-6_Anti-Personnel_Minefield
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8444,7 +8450,7 @@ The Gas Mines are a Stratagem that deploys a minefield which releases toxic gas 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/md-8-gas-mines.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MD-8_Gas_Mines
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8554,7 +8560,7 @@ The MD-I4 Incendiary Mines are a defensive stratagem that blankets a roughly 25-
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/md-i4-incendiary-mines.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MD-I4_Incendiary_Mines
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8650,7 +8656,7 @@ The MG-206 Heavy Machine Gun (abbreviated as HMG) is a Stratagem which calls a S
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/mg-206-heavy-machine-gun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MG-206_Heavy_Machine_Gun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8747,7 +8753,7 @@ The MG-43 Machine Gun is a Stratagem that calls down a Support Weapon capable of
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/mg-43-machine-gun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MG-43_Machine_Gun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8833,7 +8839,7 @@ The MGX-42 Bullet Storm is a Stratagem which calls down a pair of disposable Sup
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/mgx-42-bullet-storm.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MGX-42_Bullet_Storm
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8961,7 +8967,7 @@ The Commando is a disposable four-barrel anti-tank rocket launcher Support Weapo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/mls-4x-commando.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MLS-4X_Commando
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9064,7 +9070,7 @@ The MS-11 Solo Silo, shortened to Solo Silo or MS-11, is an expendable Support w
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/ms-11-solo-silo.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MS-11_Solo_Silo
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9188,7 +9194,7 @@ The Orbital 120mm HE Barrage is an offensive stratagem which fires 5-6 salvos of
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-120mm-he-barrage.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_120mm_HE_Barrage
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9312,7 +9318,7 @@ The Orbital 380mm HE Barrage is an offensive stratagem firing 5-6 salvos of 3 sh
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-380mm-he-barrage.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_380mm_HE_Barrage
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9320,6 +9326,8 @@ The Orbital 380mm HE Barrage is an offensive stratagem firing 5-6 salvos of 3 sh
 ## Orbital Airburst Strike
 
 **分类：** 战略配备 (`stratagems`) · **ID：** `orbital-airburst-strike`
+
+> ⚠️ 原始 Wiki 数据被标记为 `potentially_outdated`，数值请结合最新补丁核对。
 
 **Wiki 原始词条：** https://helldivers.wiki.gg/wiki/Orbital_Airburst_Strike
 
@@ -9471,7 +9479,7 @@ The Orbital Airburst Strike is an offensive Stratagem in Helldivers 2, designed 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-airburst-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Airburst_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9601,7 +9609,7 @@ The Orbital EMS Strike is a powerful utility Stratagem, useful for locking down 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-ems-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_EMS_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9749,7 +9757,7 @@ The Orbital Gas Strike is an offensive orbital Stratagem that disperses lingerin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-gas-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Gas_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9893,7 +9901,7 @@ The Orbital Gatling Barrage or OGB for short is an offensive stratagem that deli
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-gatling-barrage.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Gatling_Barrage
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9938,7 +9946,7 @@ The Orbital Illumination Flare is a deprecated Stratagem that was never able to 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-illumination-flare.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Illumination_Flare
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10043,7 +10051,7 @@ The Orbital Laser also known as Laser is an offensive stratagem that fires a sin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-laser.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Laser
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10203,7 +10211,7 @@ The Orbital Napalm Barrage, also known as the ONB, is an offensive orbital Strat
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-napalm-barrage.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Napalm_Barrage
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10323,7 +10331,7 @@ The Orbital Precision Strike, abbreviated as OPS, is a Stratagem in the Bridge c
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-precision-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Precision_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10434,7 +10442,7 @@ The Orbital Railcannon Strike, also known as the ORC or ORS, is an offensive str
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-railcannon-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Railcannon_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10546,7 +10554,7 @@ The Orbital Smoke Strike is a Stratagem that creates a large smokescreen to prov
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-smoke-strike.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Smoke_Strike
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10670,7 +10678,7 @@ The Orbital Walking Barrage is an offensive Stratagem which fires several salvos
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/orbital-walking-barrage.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Orbital_Walking_Barrage
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10848,7 +10856,7 @@ The PLAS-45 Epoch is an energy-based plasma Support Weapon Stratagem with Heavy 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/plas-45-epoch.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PLAS-45_Epoch
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10897,7 +10905,7 @@ The Portable Comms Relay Stratagem is only available during one of the Infiltrat
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/portable-comms-relay.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Portable_Comms_Relay
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10946,7 +10954,7 @@ The Prospecting Drill Stratagem is only available during the Conduct Geological 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/prospecting-drill.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Prospecting_Drill
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10994,7 +11002,7 @@ The Reinforcement is a standard-issue Stratagem, available to all Helldivers reg
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/reinforce.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Reinforce
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11053,7 +11061,7 @@ The Resupply Stratagem allows Helldivers to call down a Hellpod with 4 Supply Bo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/resupply.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Resupply
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11296,7 +11304,7 @@ The RL-77 Airburst Rocket Launcher, also known as the ABRL, is a Support Weapon 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/rl-77-airburst-rocket-launcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RL-77_Airburst_Rocket_Launcher
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11431,7 +11439,7 @@ The RS-422 Railgun is a Stratagem which calls down a Support Weapon that fires h
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/rs-422-railgun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-422_Railgun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11582,7 +11590,7 @@ The S-11 Speargun is a Stratagem which calls down a Support Weapon that fires pr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/s-11-speargun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/S-11_Speargun
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11944,7 +11952,7 @@ SEAF Artillery is a generic Optional Objective consisting of a large, stationary
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/seaf-artillery.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SEAF_Artillery
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11993,7 +12001,7 @@ A Seismic Probe Stratagem is Seismic Probe fitted into a Hellpod. It is preprogr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/seismic-probe.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Seismic_Probe
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12059,7 +12067,7 @@ The SH-20 Ballistic Shield Backpack or Ballistic Shield for short is a Stratagem
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sh-20-ballistic-shield-backpack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SH-20_Ballistic_Shield_Backpack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12125,7 +12133,7 @@ The SH-32 Shield Generator Pack, also known as the Shield Pack, is a backpack st
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sh-32-shield-generator-pack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SH-32_Shield_Generator_Pack
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12189,7 +12197,7 @@ The Directional Shield is a Backpack Stratagem that projects a wide energy shiel
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sh-51-directional-shield.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SH-51_Directional_Shield
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12238,7 +12246,7 @@ The SoS Beacon is a standard-issue Stratagem which causes the mission to be disp
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sos-beacon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SoS_Beacon
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12287,7 +12295,7 @@ The SSSD Delivery Stratagem allows Helldivers to call down a Hellpod containing 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sssd-delivery.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SSSD_Delivery
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12444,7 +12452,7 @@ The StA-X3 W.A.S.P. Launcher, or simply W.A.S.P., is an anti-tank multiple micro
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/sta-x3-wasp-launcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/StA-X3_W.A.S.P._Launcher
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12493,7 +12501,7 @@ The Super Earth Flag Stratagem is used to call down the Flag in the Spread Democ
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/super-earth-flag.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Super_Earth_Flag
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12538,7 +12546,7 @@ The Tactical Video Camera Stratagem is an objective critical stratagem that is a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/tactical-video-camera.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Tactical_Video_Camera
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12634,7 +12642,7 @@ The TD-110 Maelstrom is a Stratagem that deploys a tracked ground vehicle armed 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/td-110-maelstrom.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TD-110_Maelstrom
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12758,7 +12766,7 @@ The TD-220 Bastion MK XVI is a Stratagem that deploys a tracked ground vehicle a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/td-220-bastion-mk-xvi.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TD-220_Bastion_MK_XVI
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12807,7 +12815,7 @@ The Tectonic Drill Stratagem allows Helldivers to call down a drill when at a su
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/tectonic-drill.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Tectonic_Drill
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12933,7 +12941,7 @@ The Sterilizer is a Support Weapon Stratagem that sprays a caustic gas which slo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/tx-41-sterilizer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TX-41_Sterilizer
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -12982,7 +12990,7 @@ The Upload Data Stratagem is used to start the data upload process. It's only av
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/stratagems/upload-data.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Upload_Data
-- 数据版本：`2026-10-24.47a3d19d`
+- 数据版本：`2026-10-25.9dc310d4`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
