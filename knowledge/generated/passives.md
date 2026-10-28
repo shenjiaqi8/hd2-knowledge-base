@@ -65,7 +65,7 @@ Provides 50% resistance to fire, gas, acid, and electrical damage.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/acclimated.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Acclimated
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -93,7 +93,7 @@ Provides one-time, short-lived resuscitation upon death, given that the Helldive
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/adreno-defibrillator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Adreno-Defibrillator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -121,7 +121,7 @@ Provides 80% resistance to gas damage and effects.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/advanced-filtration.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Advanced_Filtration
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -149,7 +149,7 @@ Provides 25% resistance to chest damage. Provides 25% resistance to explosive da
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/ballistic-padding.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Ballistic_Padding
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -177,7 +177,7 @@ Bearer is more resistant to being knocked prone. Reduces damage taken from impac
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/blunt-force-mitigation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Blunt-Force_Mitigation
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -205,7 +205,7 @@ Provides 50% resistance to explosive damage. Increases initial inventory and hol
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/concussive-padding-grenadier.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Concussive_Padding,_Grenadier
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -233,7 +233,7 @@ Provides 50% resistance to explosive damage. Provides 25% resistance to gas dama
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/concussive-padding-hazmat.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Concussive_Padding,_Hazmat
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -261,7 +261,7 @@ Provides 50% resistance to explosive damage. Provides a higher armor rating.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/concussive-padding-reinforced.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Concussive_Padding,_Reinforced
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -289,7 +289,7 @@ Provides 50% resistance to explosive damage. Provides a higher armor rating.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/democracy-protects.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Democracy_Protects
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -317,7 +317,7 @@ Provides 40% resistance to fire, gas, acid, and electrical damage. Increases thr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/desert-stormer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Desert_Stormer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -345,7 +345,7 @@ Provides 95% resistance to arc damage.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/electrical-conduit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Electrical_Conduit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -373,7 +373,7 @@ Further reduces recoil when crouching or prone by 30%. Increases initial invento
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/engineering-kit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Engineering_Kit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -401,7 +401,7 @@ Provides a higher armor rating.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/extra-padding.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Extra_Padding
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -429,7 +429,7 @@ Wearer makes 50% less noise when moving. Increases point-of-interest identificat
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/feet-first.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Feet_First
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -457,7 +457,7 @@ Further reduces recoil when crouching or prone by 30%. Provides 50% resistance t
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/fortified.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Fortified
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -485,7 +485,7 @@ Increases sidearms reload speed by 40%. Sidearm draw/holster speed increased by 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/gunslinger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Gunslinger
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -513,7 +513,7 @@ Provides 75% damage resistance to fire, allowing bearer to rest assured in their
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/inflammable.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Inflammable
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -541,7 +541,7 @@ Armor explodes 1.5s after the wearer dies. Increases initial inventory and holdi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/integrated-explosives.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Integrated_Explosives
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -569,7 +569,7 @@ Provides 50% damage resistance to fire, allowing bearer to rest assured in their
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/kinetic-displacement-mitigation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Kinetic_Displacement_Mitigation
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -597,7 +597,7 @@ Increases initial inventory and holding capacity of stims by +2. Increases stim 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/med-kit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Med-Kit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -625,7 +625,7 @@ Increases the wearer's walking speed and running speed. Increases the speed and 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/oxygenator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Oxygenator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -653,7 +653,7 @@ Increases melee damage by 40%. Improves weapons handling with less drag on weapo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/peak-physique.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Peak_Physique
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -681,7 +681,7 @@ Wearer makes 50% less noise when moving. Reduces range at which enemies can dete
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/reduced-signature.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Reduced_Signature
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -709,7 +709,7 @@ Increases reload speed of primary weapons by 30%. Gives wearer a 50% chance to a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/reinforced-epaulettes.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Reinforced_Epaulettes
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -737,7 +737,7 @@ Increases melee damage by 40%. Bearer is more resistant to being knocked prone.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/rock-solid.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Rock_Solid
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -765,7 +765,7 @@ Markers placed on the map will generate radar scans every 2.0s. Reduces range at
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/scout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Scout
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -793,7 +793,7 @@ Increases throwing range by 30%. Provides +50% limb health.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/servo-assisted.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Servo-Assisted
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -821,7 +821,7 @@ Increases reload speed of primary weapons by 30%. Increases ammo capacity of all
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/siege-ready.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Siege-Ready
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -849,7 +849,7 @@ Reduces weapon sway while aiming by 35%. Wearer makes 15% less noise when moving
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/stationary-shroud.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Stationary_Shroud
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -877,7 +877,7 @@ When the wearer takes damage, they regain some stamina. Provides a higher armor 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/supplementary-adrenaline.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Supplemental_Adrenaline
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -905,7 +905,7 @@ Increases reload speed of support weapons by 30%. Slightly increases weapon ergo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/true-grit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/True_Grit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -933,7 +933,7 @@ Helps prevent Helldivers from flinching when hit. Provides a higher armor rating
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/passives/unflinching.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Unflinching
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---

@@ -147,7 +147,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/a-35-recon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A-35_Recon
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -176,7 +176,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/a-9-helljumper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A-9_Helljumper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -203,7 +203,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ac-1-dutiful.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AC-1_Dutiful
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -230,7 +230,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ac-2-obedient.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AC-2_Obedient
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -259,7 +259,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ad-11-livewire.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-11_Livewire
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -288,7 +288,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ad-26-bleeding-edge.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-26_Bleeding_Edge
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -317,7 +317,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ad-49-apollonian.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-49_Apollonian
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -344,7 +344,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/af-02-haz-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-02_Haz-Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -371,7 +371,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/af-50-noxious-ranger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-50_Noxious_Ranger
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -395,7 +395,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/af-52-lockdown.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-52_Lockdown
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -419,7 +419,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/af-91-field-chemist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-91_Field_Chemist
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -443,7 +443,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/b-01-tactical.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-01_Tactical
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -467,7 +467,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/b-08-light-gunner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-08_Light_Gunner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -491,7 +491,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/b-22-model-citizen.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-22_Model_Citizen
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -515,7 +515,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/b-24-enforcer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-24_Enforcer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -539,7 +539,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/b-27-fortified-commando.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-27_Fortified_Commando
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -566,7 +566,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bfm-16-tanker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-16_Tanker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -593,7 +593,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bfm-220-ironclad.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-220_Ironclad
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -620,7 +620,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bfm-77-reformer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-77_Reformer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -649,7 +649,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bp-20-correct-officer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-20_Correct_Officer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -678,7 +678,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bp-32-jackboot.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-32_Jackboot
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -707,7 +707,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/bp-77-grand-juror.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-77_Grand_Juror
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -734,7 +734,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-07-demolition-specialist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-07_Demolition_Specialist
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -758,7 +758,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-101-guerilla-gorilla.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-101_Guerilla_Gorilla
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -785,7 +785,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-27-ground-breaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-27_Ground_Breaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -812,7 +812,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-35-trench-engineer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-35_Trench_Engineer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -836,7 +836,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-64-grenadier.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-64_Grenadier
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -860,7 +860,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-67-titan.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-67_Titan
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -884,7 +884,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-74-breaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-74_Breaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -908,7 +908,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ce-81-juggernaut.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-81_Juggernaut
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -935,7 +935,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cm-09-bonesnapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-09_Bonesnapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -959,7 +959,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cm-10-clinician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-10_Clinician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -986,7 +986,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cm-14-physician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-14_Physician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1010,7 +1010,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cm-17-butcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-17_Butcher
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1034,7 +1034,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cm-21-trench-paramedic.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-21_Trench_Paramedic
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1061,7 +1061,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cpg-48-sapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPG-48_Sapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1088,7 +1088,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cph-26-commandant.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPH-26_Commandant
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1115,7 +1115,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cpr-80-bulwark.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPR-80_Bulwark
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1142,7 +1142,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cw-22-kodiak.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-22_Kodiak
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1169,7 +1169,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cw-36-winter-warrior.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-36_Winter_Warrior
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1196,7 +1196,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cw-4-arctic-ranger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-4_Arctic_Ranger
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1220,7 +1220,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/cw-9-white-wolf.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-9_White_Wolf
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1244,7 +1244,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/dp-00-tactical.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-00_Tactical
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1271,7 +1271,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/dp-11-champion-of-the-people.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-11_Champion_of_the_People
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1298,7 +1298,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/dp-40-hero-of-the-federation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-40_Hero_of_the_Federation
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1322,7 +1322,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/dp-53-savior-of-the-free.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-53_Savior_of_the_Free
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1351,7 +1351,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/dp-8-mountain-scaled.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-8_Mountain-Scaled
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1380,7 +1380,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ds-10-big-game-hunter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-10_Big_Game_Hunter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1409,7 +1409,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ds-191-scorpion.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-191_Scorpion
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1438,7 +1438,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ds-42-federations-blade.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-42_Federation's_Blade
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1465,7 +1465,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ex-00-prototype-x.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-00_Prototype_X
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1492,7 +1492,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ex-03-prototype-3.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-03_Prototype_3
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1519,7 +1519,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ex-16-prototype-16.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-16_Prototype_16
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1546,7 +1546,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-05-marksman.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-05_Marksman
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1570,7 +1570,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-11-executioner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-11_Executioner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1597,7 +1597,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-23-battle-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-23_Battle_Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1621,7 +1621,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-34-exterminator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-34_Exterminator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1645,7 +1645,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-37-ravager.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-37_Ravager
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1669,7 +1669,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-38-eradicator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-38_Eradicator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1696,7 +1696,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-55-devastator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-55_Devastator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1720,7 +1720,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/fs-61-dreadnought.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-61_Dreadnought
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1747,7 +1747,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/gs-11-democracys-deputy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-11_Democracy's_Deputy
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1774,7 +1774,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/gs-17-frontier-marshal.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-17_Frontier_Marshal
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1801,7 +1801,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/gs-66-lawmaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-66_Lawmaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1828,7 +1828,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/i-09-heatseeker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-09_Heatseeker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1855,7 +1855,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/i-102-draconaught.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-102_Draconaught
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1879,7 +1879,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/i-44-salamander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-44_Salamander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1903,7 +1903,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/i-92-fire-fighter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-92_Fire_Fighter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1930,7 +1930,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ie-12-righteous.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-12_Righteous
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1957,7 +1957,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ie-3-martyr.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-3_Martyr
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1984,7 +1984,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ie-57-hell-bent.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-57_Hell-Bent
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2008,7 +2008,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/kdm-500-outrider.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/KDM-500_Outrider
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2035,7 +2035,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/o-2-heavy-operator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-2_Heavy_Operator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2062,7 +2062,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/o-3-free-spirit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-3_Free_Spirit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2089,7 +2089,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/o-44-bonded-pilot.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-44_Bonded_Pilot
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2116,7 +2116,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ph-202-twigsnapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-202_Twigsnapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2140,7 +2140,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ph-56-jaguar.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-56_Jaguar
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2167,7 +2167,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ph-9-predator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-9_Predator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2194,7 +2194,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/re-1861-parade-commander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-1861_Parade_Commander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2221,7 +2221,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/re-2310-honorary-guard.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-2310_Honorary_Guard
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2248,7 +2248,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/re-824-bearer-of-the-standard.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-824_Bearer_of_the_Standard
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2275,7 +2275,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-100-sanctioner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-100_Sanctioner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2302,7 +2302,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-20-constrictor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-20_Constrictor
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2329,7 +2329,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-40-beast-of-prey.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-40_Beast_of_Prey
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2356,7 +2356,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-6-fiend-destroyer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-6_Fiend_Destroyer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2383,7 +2383,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-67-null-cipher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-67_Null_Cipher
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2410,7 +2410,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/rs-89-shadow-paragon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-89_Shadow_Paragon
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2437,7 +2437,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-04-combat-technician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-04_Combat_Technician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2461,7 +2461,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-12-servo-assisted.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-12_Servo_Assisted
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2488,7 +2488,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-25-steel-trooper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-25_Steel_Trooper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2515,7 +2515,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-32-dynamo.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-32_Dynamo
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2542,7 +2542,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-7-headfirst.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-7_Headfirst
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2569,7 +2569,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sa-8-ram.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-8_Ram
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2593,7 +2593,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sc-15-drone-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-15_Drone_Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2620,7 +2620,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sc-30-trailblazer-scout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-30_Trailblazer_Scout
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2647,7 +2647,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sc-34-infiltrator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-34_Infiltrator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2671,7 +2671,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sc-37-legionnaire.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-37_Legionnaire
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2698,7 +2698,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sr-18-roadblock.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-18_Roadblock
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2725,7 +2725,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sr-24-street-scout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-24_Street_Scout
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2752,7 +2752,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/sr-64-cinderblock.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-64_Cinderblock
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2779,7 +2779,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ss-15-focal-point.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-15_Focal_Point
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2806,7 +2806,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ss-33-mimetic-marshal.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-33_Mimetic_Marshal
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2833,7 +2833,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/ss-500-pale-prosecutor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-500_Pale_Prosecutor
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2860,7 +2860,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tg-122-demo-trooper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TG-122_Demo-Trooper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2887,7 +2887,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tg-8-sharpshooter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TG-8_Sharpshooter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2911,7 +2911,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-117-alpha-commander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-117_Alpha_Commander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2935,7 +2935,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-40-gold-eagle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-40_Gold_Eagle
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2959,7 +2959,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-62-knight.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-62_Knight
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2983,7 +2983,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-7-ambassador-of-the-brand.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-7_Ambassador_of_the_Brand
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3007,7 +3007,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/tr-9-cavalier-of-democracy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-9_Cavalier_of_Democracy
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3034,7 +3034,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/uf-16-inspector.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-16_Inspector
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3061,7 +3061,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/uf-50-bloodhound.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-50_Bloodhound
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3088,7 +3088,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armor-sets/uf-84-doubt-killer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-84_Doubt_Killer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---

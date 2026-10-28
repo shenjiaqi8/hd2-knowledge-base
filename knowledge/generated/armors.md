@@ -165,7 +165,7 @@ Made famous by the Ministry of Intelligence's hide-and-seek-and-destroy champion
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/a-35-recon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A-35_Recon
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -212,7 +212,7 @@ Debuted during the New Mombasa Armor Show, this sleek ensemble is sure to turn h
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/a-9-helljumper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/A-9_Helljumper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -257,7 +257,7 @@ The breathing apparatus built into this armor helps both soldiers and colonists 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ac-1-dutiful.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AC-1_Dutiful
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -302,7 +302,7 @@ The muted colors and relaxed, high-mobility fit make it a favorite among long-di
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ac-2-obedient.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AC-2_Obedient
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -349,7 +349,7 @@ Part of a long line of experimental armor commonly seen on industrial engineerin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ad-11-livewire.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-11_Livewire
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -396,7 +396,7 @@ Pushing the boundaries of bionic engineering, this armor collects and dispenses 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ad-26-bleeding-edge.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-26_Bleeding_Edge
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -443,7 +443,7 @@ Equipped with the latest computational systems, subsystems, and supersystems, th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ad-49-apollonian.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AD-49_Apollonian
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -488,7 +488,7 @@ Developed by the Ministry of Science while investigating the phenomenon known as
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/af-02-haz-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-02_Haz-Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -533,7 +533,7 @@ Developed by the Ministry of Science while investigating the phenomenon known as
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/af-50-noxious-ranger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-50_Noxious_Ranger
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -578,7 +578,7 @@ Heavily layered to protect against ocular blistering, subdermal liquification, a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/af-52-lockdown.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-52_Lockdown
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -623,7 +623,7 @@ This armor, together with its friendly-faced helmet, is instantly recognizable f
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/af-91-field-chemist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AF-91_Field_Chemist
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -667,7 +667,7 @@ This armor is the Super Earth Standard Issue, made from the same titanium alloy 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/b-01-tactical.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-01_Tactical
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -712,7 +712,7 @@ Compact and flexible, this kevlar armor adds minimal mass, making it a common ch
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/b-08-light-gunner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-08_Light_Gunner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -756,7 +756,7 @@ Gifted to Helldivers whose civilian lives were distinguished by exemplary citize
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/b-22-model-citizen.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-22_Model_Citizen
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -801,7 +801,7 @@ In field tests, 84% of users said that the armor improved their posture and self
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/b-24-enforcer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-24_Enforcer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -846,7 +846,7 @@ This armor set first appeared in the music video for the summer anthem ‘Our Lo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/b-27-fortified-commando.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/B-27_Fortified_Commando
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -891,7 +891,7 @@ Inspired by the legendary armored cavalry of the First Galactic War, this lightw
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bfm-16-tanker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-16_Tanker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -936,7 +936,7 @@ Forged from surplus hull plating, this hulking suit features an integrated servo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bfm-220-ironclad.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-220_Ironclad
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -981,7 +981,7 @@ Molded from high-impact synthetic polymers. This sleek, stark white faceless arm
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bfm-77-reformer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BFM-77_Reformer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1028,7 +1028,7 @@ A welcome sight in all Democratic neighborhoods, this armor inspires both civil 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bp-20-correct-officer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-20_Correct_Officer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1075,7 +1075,7 @@ Named for Helldiver Jack Boote, who shut down 908 illegal broadcasts before reti
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bp-32-jackboot.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-32_Jackboot
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1122,7 +1122,7 @@ Each gilded detail is polished to perfection by re-educated dissidents, as part 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/bp-77-grand-juror.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BP-77_Grand_Juror
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1167,7 +1167,7 @@ Originally worn by lunar terraformers, this suit can withstand rapid changes in 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-07-demolition-specialist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-07_Demolition_Specialist
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1212,7 +1212,7 @@ Heavily insulated from animal bites, enemy fire, and the histrionic diatribes of
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-101-guerilla-gorilla.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-101_Guerilla_Gorilla
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1257,7 +1257,7 @@ Heavily insulated from animal bites, enemy fire, and the histrionic diatribes of
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-27-ground-breaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-27_Ground_Breaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1302,7 +1302,7 @@ After colonists of Hellmire recovered a lost shipment of this armor, the local p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-35-trench-engineer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-35_Trench_Engineer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1347,7 +1347,7 @@ The set's classic advertising campaign “Have you tried a grenade?” has remai
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-64-grenadier.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-64_Grenadier
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1392,7 +1392,7 @@ A quality product, this armor can destroy over 300,000 kilometers of fencing wit
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-67-titan.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-67_Titan
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1437,7 +1437,7 @@ A domestic version of this armor is available for citizens who wish to perform e
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-74-breaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-74_Breaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1482,7 +1482,7 @@ One of the most durable engineer armors available, each set is quality tested by
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ce-81-juggernaut.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CE-81_Juggernaut
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1527,7 +1527,7 @@ Based on a colonial surgeon's gown, where surgeries were often interrupted by a 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cm-09-bonesnapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-09_Bonesnapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1572,7 +1572,7 @@ Featuring patented reverse-seam technology, to reduce the likelihood of bodily f
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cm-10-clinician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-10_Clinician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1617,7 +1617,7 @@ The distinctive red, white, and green of the Intergalactic Medical Corps signal 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cm-14-physician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-14_Physician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1662,7 +1662,7 @@ An armor often worn by frontline surgeons, who are skilled at both putting bodie
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cm-17-butcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-17_Butcher
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1707,7 +1707,7 @@ The suit was once designed to hold a variety of battlefield medical equipment. N
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cm-21-trench-paramedic.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CM-21_Trench_Paramedic
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1752,7 +1752,7 @@ With extra capacity for storing throwable munitions, this armor ensure every ene
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cpg-48-sapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPG-48_Sapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1797,7 +1797,7 @@ Featuring a high collar scientifically designed to deflect mud, blood, and indir
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cph-26-commandant.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPH-26_Commandant
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1842,7 +1842,7 @@ This armour pays tribute to the immovable heroes of the front line—those who r
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cpr-80-bulwark.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CPR-80_Bulwark
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1887,7 +1887,7 @@ The CW-22 Kodiak armor was thoroughly pressure-tested by patriotic volunteers, a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cw-22-kodiak.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-22_Kodiak
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1932,7 +1932,7 @@ Offering camouflage in snowy environments, surplus sets of this armor are used b
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cw-36-winter-warrior.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-36_Winter_Warrior
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1977,7 +1977,7 @@ Features a utility belt with pockets that can be filled with any number of thing
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cw-4-arctic-ranger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-4_Arctic_Ranger
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2022,7 +2022,7 @@ The pattern used for this armor is the result of the Winter Camouflage Improveme
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/cw-9-white-wolf.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CW-9_White_Wolf
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2066,7 +2066,7 @@ This classic armor set is recognized by every citizen: worn by the heroic Helldi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/dp-00-tactical.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-00_Tactical
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2111,7 +2111,7 @@ The three stripes on the pauldrons stand for the three principles of Super Earth
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/dp-11-champion-of-the-people.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-11_Champion_of_the_People
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2156,7 +2156,7 @@ Though originally intended solely for ceremonial use, its inspirational energy p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/dp-40-hero-of-the-federation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-40_Hero_of_the_Federation
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2201,7 +2201,7 @@ A faithful replica of the armor worn at The Battle of Liberty Peak. Honor their 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/dp-53-savior-of-the-free.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-53_Savior_of_the_Free
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2248,7 +2248,7 @@ This armor recalls the legendary heroes who scared a ravenous Hive Lord away fro
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/dp-8-mountain-scaled.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DP-8_Mountain-Scaled
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2295,7 +2295,7 @@ With its rustic charm and huntsmanlike detailing, this armor evokes those heroic
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ds-10-big-game-hunter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-10_Big_Game_Hunter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2342,7 +2342,7 @@ This multi-layered protective armor keeps rough sand, spores, and other coarse g
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ds-191-scorpion.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-191_Scorpion
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2389,7 +2389,7 @@ This patriotic armor comes recommended by the Ministry of Expansion, empowering 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ds-42-federations-blade.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DS-42_Federation's_Blade
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2434,7 +2434,7 @@ The end result of several billion Super Credits and 12 years of research into cr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ex-00-prototype-x.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-00_Prototype_X
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2479,7 +2479,7 @@ Because this prototype's wires operate at 400,000 volts, it also includes a hand
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ex-03-prototype-3.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-03_Prototype_3
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2524,7 +2524,7 @@ As the electric arc generates a strong magnetic field, wearers should avoid use 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ex-16-prototype-16.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/EX-16_Prototype_16
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2569,7 +2569,7 @@ While early prototypes used shock-absorbing gels, this armor stabilizes aim with
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-05-marksman.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-05_Marksman
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2614,7 +2614,7 @@ Popularized by actor Chip Messiter, who wore this in the action-rom-com-musical 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-11-executioner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-11_Executioner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2659,7 +2659,7 @@ This aim-stabilizing armor found surprising secondary market success among alien
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-23-battle-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-23_Battle_Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2704,7 +2704,7 @@ Features a patented non-stick coating, which makes scraping viscera off after a 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-34-exterminator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-34_Exterminator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2749,7 +2749,7 @@ Contains many small pockets, allowing the user to evenly distribute the weight o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-37-ravager.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-37_Ravager
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2794,7 +2794,7 @@ First deployed in the mines of Cyberstan, where it offered protection against ex
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-38-eradicator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-38_Eradicator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2839,7 +2839,7 @@ Domestic versions of this armor enable colonial farmers to plant crops and mines
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-55-devastator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-55_Devastator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2884,7 +2884,7 @@ With genuine gold accents, 74% of colonists voted this armor the set they would 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/fs-61-dreadnought.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FS-61_Dreadnought
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2929,7 +2929,7 @@ At the edge of the Federation, sometimes Democracy has only one representative.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/gs-11-democracys-deputy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-11_Democracy's_Deputy
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2974,7 +2974,7 @@ Inspired by the trailblazing agents of the Super Earth Terraforming Company. The
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/gs-17-frontier-marshal.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-17_Frontier_Marshal
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3019,7 +3019,7 @@ Embodies the ethos of Manifest Democracy—that it is our voter-given responsibi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/gs-66-lawmaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GS-66_Lawmaker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3064,7 +3064,7 @@ The burnished blood-red plates are forged in righteous fire, like the heroes the
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/i-09-heatseeker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-09_Heatseeker
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3109,7 +3109,7 @@ Completely sheathed in 14-cm silica fiber foam, except for a thin tube to the ea
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/i-102-draconaught.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-102_Draconaught
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3154,7 +3154,7 @@ The signature orange pauldron allows easy battlefield detection of the bearer, a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/i-44-salamander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-44_Salamander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3199,7 +3199,7 @@ The heavy rubber tunic and reflective limb guards, originally designed to save c
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/i-92-fire-fighter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/I-92_Fire_Fighter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3244,7 +3244,7 @@ Modeled after the myriad Statues of Judicious Liberty, who keep a watchful eye o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ie-12-righteous.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-12_Righteous
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3289,7 +3289,7 @@ Modeled after the Statue of Mournful Liberty, who weeps over the existence of ty
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ie-3-martyr.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-3_Martyr
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3334,7 +3334,7 @@ Assembled from pieces of recovered Helldiver armor and SEAF gear, for those who 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ie-57-hell-bent.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/IE-57_Hell-Bent
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3378,7 +3378,7 @@ Ruggedized for extended operation beyond the reach of paved logistics. This armo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/kdm-500-outrider.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/KDM-500_Outrider
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3423,7 +3423,7 @@ This armor is the required uniform for many Super Earth Citizens operating heavy
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/o-2-heavy-operator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-2_Heavy_Operator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3468,7 +3468,7 @@ The SteerComfort fit of this armor allows the wearer to feel every curve, bump, 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/o-3-free-spirit.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-3_Free_Spirit
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3513,7 +3513,7 @@ This armor celebrates the wearer's close relationship to their Exosuit---as inti
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/o-44-bonded-pilot.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/O-44_Bonded_Pilot
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3558,7 +3558,7 @@ The omission of upper-limb coverings allows for optimized freedom of movement, p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ph-202-twigsnapper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-202_Twigsnapper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3603,7 +3603,7 @@ The omission of upper-limb coverings allows for optimized freedom of movement, p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ph-56-jaguar.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-56_Jaguar
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3648,7 +3648,7 @@ Based on the uniform of Jackle 6, a veteran of the Viper Commandos who held off 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ph-9-predator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PH-9_Predator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3693,7 +3693,7 @@ Awarded to those promoted to their point of greatest competency, and beyond.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/re-1861-parade-commander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-1861_Parade_Commander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3738,7 +3738,7 @@ This traditional armor has remained unchanged since time immemorial. Now with se
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/re-2310-honorary-guard.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-2310_Honorary_Guard
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3783,7 +3783,7 @@ Commonly replicated in stage adaptations of “Lady Liberty's Tower”, in which
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/re-824-bearer-of-the-standard.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RE-824_Bearer_of_the_Standard
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3828,7 +3828,7 @@ Armor inspired by the legend of the Sanctioner, a figure known only through a bi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-100-sanctioner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-100_Sanctioner
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3873,7 +3873,7 @@ The official uniform of the League of Patriotic Arm Wrestlers, this armor's lycr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-20-constrictor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-20_Constrictor
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3918,7 +3918,7 @@ Evoking legendary Helldiver Ronald Mambo on the eve of his untimely disappearanc
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-40-beast-of-prey.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-40_Beast_of_Prey
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3963,7 +3963,7 @@ The understated color scheme and precision-molded armor plates make this armor a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-6-fiend-destroyer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-6_Fiend_Destroyer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4008,7 +4008,7 @@ This armor, coated in radar-absorbent polymers and a null-signature heat baffle,
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-67-null-cipher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-67_Null_Cipher
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4053,7 +4053,7 @@ Armor befitting infiltrators of all caliber. Inspired by mythical Democracy-disp
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/rs-89-shadow-paragon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/RS-89_Shadow_Paragon
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4098,7 +4098,7 @@ Due to the enhanced strength caused by this armor, caution is advised when using
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-04-combat-technician.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-04_Combat_Technician
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4143,7 +4143,7 @@ Each servo-assisted limb contains 138 miniature motors, to support a natural gai
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-12-servo-assisted.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-12_Servo_Assisted
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4188,7 +4188,7 @@ For optimal performance, the manufacturer recommends avoiding immersing this arm
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-25-steel-trooper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-25_Steel_Trooper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4233,7 +4233,7 @@ In mountainous colonies, domestic variants of this armor are used to throw weath
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-32-dynamo.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-32_Dynamo
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4278,7 +4278,7 @@ Disarmingly scrappy and viciously disarming, this armor is a staple of the Balay
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-7-headfirst.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-7_Headfirst
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4323,7 +4323,7 @@ The heavy plate used in this armor is sustainably sourced from the corpses of no
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sa-8-ram.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SA-8_Ram
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4368,7 +4368,7 @@ Some soldiers report picking up strange radio interference when wearing this arm
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sc-15-drone-master.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-15_Drone_Master
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4413,7 +4413,7 @@ The patented fabric absorbs visible, infrared, and ultraviolet radiation, to pre
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sc-30-trailblazer-scout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-30_Trailblazer_Scout
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4458,7 +4458,7 @@ This suit's plutonium-238 nuclear battery enables environmental scanning long af
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sc-34-infiltrator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-34_Infiltrator
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4503,7 +4503,7 @@ This armor is based on the antique uniforms of the ‘Super Earth Legion’, a l
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sc-37-legionnaire.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SC-37_Legionnaire
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4548,7 +4548,7 @@ The crest on this armor's shoulder shows friendlies that safety is near, and foe
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sr-18-roadblock.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-18_Roadblock
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4593,7 +4593,7 @@ This armor's nostalgic color scheme brings to mind beloved trappings of colonial
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sr-24-street-scout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-24_Street_Scout
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4638,7 +4638,7 @@ This armor uses repurposed metal from verified sources, such as vending machine 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/sr-64-cinderblock.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SR-64_Cinderblock
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4683,7 +4683,7 @@ Designed for forward observers coordinating long-range decrees. This medium suit
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ss-15-focal-point.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-15_Focal_Point
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4728,7 +4728,7 @@ This light armor features state-of-the-art synthetic adaptive fibers and light-d
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ss-33-mimetic-marshal.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-33_Mimetic_Marshal
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4773,7 +4773,7 @@ Tailored from insulated canvas, with a design honoring the ghost-like marksmen o
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/ss-500-pale-prosecutor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SS-500_Pale_Prosecutor
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4818,7 +4818,7 @@ The design of the Demo-Trooper armor has been a corporate secret since ST Constr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tg-122-demo-trooper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TG-122_Demo-Trooper
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4863,7 +4863,7 @@ The design of the Demo-Trooper armor has been a corporate secret since ST Constr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tg-8-sharpshooter.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TG-8_Sharpshooter
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4907,7 +4907,7 @@ For warriors who are so strong and confident that they don't need any reassuranc
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tr-117-alpha-commander.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-117_Alpha_Commander
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4951,7 +4951,7 @@ This high-visibility armor allows its bearer to be easily seen through smoke, fo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tr-40-gold-eagle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-40_Gold_Eagle
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4995,7 +4995,7 @@ Crafted to deliver Justice to the darkest crevices of the galaxy.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tr-62-knight.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-62_Knight
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5039,7 +5039,7 @@ Promotional armor made by SUMY Corp. as part of a highly successful marketing ca
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tr-7-ambassador-of-the-brand.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-7_Ambassador_of_the_Brand
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5083,7 +5083,7 @@ Bearers of this armor ride no equine mount, but are nonetheless borne to battle 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/tr-9-cavalier-of-democracy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TR-9_Cavalier_of_Democracy
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5128,7 +5128,7 @@ Made famous by the “Truth Enforcers: Enforcers of Truth” mystery novels, thi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/uf-16-inspector.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-16_Inspector
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5173,7 +5173,7 @@ Users are advised not to scratch at the lacquer, as the Red 20,000 pigment that 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/uf-50-bloodhound.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-50_Bloodhound
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5218,7 +5218,7 @@ Even among the most depraved of dissidents, the mere sight of this armor is enou
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/armors/uf-84-doubt-killer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UF-84_Doubt_Killer
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---

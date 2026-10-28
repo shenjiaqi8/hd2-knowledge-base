@@ -57,7 +57,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/anti-tank.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Anti-Tank
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -81,7 +81,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/arc.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Arc
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -105,7 +105,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/backpack.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Backpack
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -129,7 +129,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/beam.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Beam
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -153,7 +153,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/caustic.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Caustic
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -177,7 +177,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/chargeup.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Chargeup
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -193,7 +193,7 @@
 | 字段 | 数值 |
 |---|---|
 | `weaponIds` | — |
-| `stratagemIds` | eagle-110mm-rocket-pods, eagle-500kg-bomb, eagle-airstrike, eagle-cluster-bomb, eagle-gas-airstrike, eagle-napalm-airstrike, eagle-smoke-strike, eagle-strafing-run |
+| `stratagemIds` | eagle-110mm-rocket-pods, eagle-500kg-bomb, eagle-airstrike, eagle-cluster-bomb, eagle-fly-by, eagle-gas-airstrike, eagle-napalm-airstrike, eagle-smoke-strike, eagle-strafing-run |
 
 
 ### 数据来源与许可
@@ -201,7 +201,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/eagle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Eagle
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -225,7 +225,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/expendable.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Expendable
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -249,7 +249,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/explosive.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Explosive
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -273,7 +273,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/guided.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Guided
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -297,7 +297,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/heat.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Heat
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -321,7 +321,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/heavy-armor-penetrating.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Heavy_Armor_Penetrating
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -345,7 +345,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/hellpod.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Hellpod
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -369,7 +369,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/incendiary.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Incendiary
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -384,7 +384,7 @@
 
 | 字段 | 数值 |
 |---|---|
-| `weaponIds` | ar-11-arbitrator, ar-23-liberator, ar-23a-liberator-carbine, ar-23c-liberator-concussive, ar-59-suppressor, ar-61-tenderizer, ar-gl-21-one-two, las-13-trident, las-16-sickle, las-17-double-edge-sickle, las-5-scythe, las-7-dagger, m6c-socom-pistol, m7s-smg, m90a-shotgun, mp-98-knight, p-19-redeemer, p-2-peacemaker, p-44-mist, plas-1-scorcher, r-2-amendment, r-63-diligence, r-72-censor, sg-20-halt, sg-22-bushwhacker, sg-225-breaker, sg-225ie-breaker-incendiary, sg-225sp-breaker-spray-pray, sg-451-cookout, sg-8-punisher, sg-88-break-action-shotgun, smg-37-defender, smg-72-pummeler, smg-flam-34-stoker, sta-11-smg, sta-52-assault-rifle, vg-70-variable |
+| `weaponIds` | ar-11-arbitrator, ar-23-liberator, ar-23a-liberator-carbine, ar-23c-liberator-concussive, ar-23l-liberator-legacy, ar-59-suppressor, ar-61-tenderizer, ar-gl-21-one-two, las-13-trident, las-16-sickle, las-17-double-edge-sickle, las-5-scythe, las-7-dagger, m6c-socom-pistol, m7s-smg, m90a-shotgun, mp-98-knight, p-19-redeemer, p-2-peacemaker, p-44-mist, plas-1-scorcher, r-2-amendment, r-63-diligence, r-72-censor, sg-20-halt, sg-22-bushwhacker, sg-225-breaker, sg-225ie-breaker-incendiary, sg-225sp-breaker-spray-pray, sg-451-cookout, sg-8-punisher, sg-88-break-action-shotgun, smg-37-defender, smg-72-pummeler, smg-flam-34-stoker, sta-11-smg, sta-52-assault-rifle, vg-70-variable |
 | `stratagemIds` | ax-las-5-rover, m-105-stalwart, mgx-42-bullet-storm |
 
 
@@ -393,7 +393,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/light-armor-penetrating.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Light_Armor_Penetrating
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -417,7 +417,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/medium-armor-penetrating.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Medium_Armor_Penetrating
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -441,7 +441,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/melee.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Melee
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -465,7 +465,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/one-handed.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#One_Handed
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -481,7 +481,7 @@
 | 字段 | 数值 |
 |---|---|
 | `weaponIds` | — |
-| `stratagemIds` | orbital-120mm-he-barrage, orbital-380mm-he-barrage, orbital-airburst-strike, orbital-ems-strike, orbital-gas-strike, orbital-gatling-barrage, orbital-laser, orbital-napalm-barrage, orbital-precision-strike, orbital-railcannon-strike, orbital-smoke-strike, orbital-walking-barrage |
+| `stratagemIds` | orbital-120mm-he-barrage, orbital-380mm-he-barrage, orbital-airburst-strike, orbital-confetti, orbital-ems-strike, orbital-gas-strike, orbital-gatling-barrage, orbital-laser, orbital-napalm-barrage, orbital-precision-strike, orbital-railcannon-strike, orbital-smoke-strike, orbital-walking-barrage |
 
 
 ### 数据来源与许可
@@ -489,7 +489,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/orbital.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Orbital
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -513,7 +513,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/rounds-reload.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Rounds_Reload
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -537,7 +537,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/sentry.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Sentry
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -561,7 +561,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/stationary-reload.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Stationary_Reload
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -585,7 +585,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/sticky.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Sticky
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -609,7 +609,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/stimulative.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Stimulative
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -633,7 +633,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/stun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Stun
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -657,7 +657,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/support-weapon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Support_Weapon
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -681,7 +681,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/suppressed.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Suppressed
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -705,7 +705,7 @@
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapon-traits/vehicle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Equipment_Traits#Vehicle
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---

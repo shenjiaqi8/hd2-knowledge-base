@@ -187,7 +187,7 @@ Borderline Justice is a Premium Warbond available for 1,000 Super Credits in the
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/borderline-justice.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Borderline_Justice_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -344,7 +344,7 @@ Castellan's Creed is a Legendary Warbond available for 1,500 Super Credits in th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/castellans-creed.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Castellan's_Creed_Legendary_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -528,7 +528,7 @@ Chemical Agents is a Premium Warbond available for 1,000 Super Credits in the Wa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/chemical-agents.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Chemical_Agents_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -684,7 +684,7 @@ Control Group is a Premium Warbond available for 1,000 Super Credits in the Warb
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/control-group.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Control_Group_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -882,7 +882,7 @@ Cutting Edge is a Premium Warbond available for 1,000 Super Credits in the Warbo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/cutting-edge.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Cutting_Edge_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1080,7 +1080,7 @@ Democratic Detonation is a Premium Warbond available for 1,000 Super Credits in 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/democratic-detonation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Democratic_Detonation_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1264,7 +1264,7 @@ Dust Devils is a Premium Warbond available for 1,000 Super Credits in the Warbon
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/dust-devils.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Dust_Devils_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1455,7 +1455,7 @@ Entrenched Division is a Premium Warbond available for 1,000 Super Credits in th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/entrenched-division.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Entrenched_Division_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1639,7 +1639,7 @@ Exo Experts is a Premium Warbond available for 1,000 Super Credits in the Warbon
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/exo-experts.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Exo_Experts_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1837,7 +1837,7 @@ Force of Law is a Premium Warbond available for 1,000 Super Credits in the Warbo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/force-of-law.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Force_of_Law_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2028,7 +2028,7 @@ Freedom's Flame is a Premium Warbond available for 1,000 Super Credits in the Wa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/freedoms-flame.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Freedom's_Flame_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2613,7 +2613,7 @@ Helldivers Mobilize! is a Standard Warbond automatically available for free in t
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/helldivers-mobilize.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Helldivers_Mobilize_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2806,7 +2806,7 @@ Ironclad Democracy is a Premium Warbond available for 1,000 Super Credits in the
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/ironclad-democracy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Ironclad_Democracy_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2962,7 +2962,7 @@ Masters of Ceremony is a Premium Warbond available for 1,000 Super Credits in th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/masters-of-ceremony.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Masters_of_Ceremony_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3119,7 +3119,7 @@ Obedient Democracy Support Troopers (ODST) is a Legendary Warbond featuring a cr
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/obedient-democracy-support-troopers.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Obedient_Democracy_Support_Troopers_Legendary_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3317,7 +3317,7 @@ Polar Patriots is a Premium Warbond available for 1,000 Super Credits in the War
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/polar-patriots.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Polar_Patriots_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3494,7 +3494,7 @@ Python Commandos is a Premium Warbond available for 1,000 Super Credits in the W
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/python-commandos.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Python_Commandos_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3657,7 +3657,7 @@ Redacted Regiment is a Premium Warbond available for 1,000 Super Credits in the 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/redacted-regiment.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Redacted_Regiment_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3805,7 +3805,7 @@ Righteous Revenants is a Legendary Warbond featuring the second version of the H
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/righteous-revenants.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Righteous_Revenants_Legendary_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3963,7 +3963,7 @@ Scope of Authority is a Premium Warbond that will available for 1,000 Super Cred
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/scope-of-authority.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Scope_of_Authority_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4112,7 +4112,7 @@ Servants of Freedom is a Premium Warbond available for 1,000 Super Credits in th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/servants-of-freedom.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Servants_of_Freedom_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4296,7 +4296,7 @@ Siege Breakers is a Premium Warbond available for 1,000 Super Credits in the War
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/siege-breakers.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Siege_Breakers_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4501,7 +4501,7 @@ Steeled Veterans is a Premium Warbond available for 1,000 Super Credits in the W
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/steeled-veterans.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Steeled_Veterans_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4678,7 +4678,7 @@ Truth Enforcers is a Premium Warbond available for 1,000 Super Credits in the Wa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/truth-enforcers.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Truth_Enforcers_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4862,7 +4862,7 @@ Urban Legends is a Premium Warbond available for 1,000 Super Credits in the Warb
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/urban-legends.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Urban_Legends_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5053,7 +5053,7 @@ Viper Commandos is a Premium Warbond available for 1,000 Super Credits in the Wa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/warbonds/viper-commandos.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Viper_Commandos_Premium_Warbond
-- 数据版本：`2026-10-25.9dc310d4`
+- 数据版本：`2026-10-28.584abe6a`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
