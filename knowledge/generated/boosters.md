@@ -62,7 +62,7 @@ Mounts a modified AR-23 Liberator to all resupply pods, allowing them to double 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/armed-resupply-pods.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Armed_Resupply_Pods
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -99,7 +99,7 @@ Equips Hellpods to deploy smokescreens on impact, obscuring Helldiver deployment
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/concealed-insertion.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Concealed_Insertion
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -136,7 +136,7 @@ Allows Helldivers to keep sprinting even when they are out of stamina, draining 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/dead-sprint.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Dead_Sprint
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -173,7 +173,7 @@ In addition to restoring health, stims temporarily increase movement speed and d
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/experimental-infusion.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Experimental_Infusion
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -210,7 +210,7 @@ Lowers the time it takes for the extraction shuttle to reach the extraction beac
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/expert-extraction-pilot.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Expert_Extraction_Pilot
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -247,7 +247,7 @@ Lines all Hellpods with volatile incendiaries that detonate upon impact, ignitin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/firebomb-hellpods.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Firebomb_Hellpods
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -284,7 +284,7 @@ Reduce time until new reinforcements are granted once they've been depleted.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/flexible-reinforcement-budget.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Flexible_Reinforcement_Budget
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -321,7 +321,7 @@ Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/hellpod-space-optimization.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Hellpod_Space_Optimization
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -358,7 +358,7 @@ Increases the number of available reinforcements.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/increased-reinforcement-budget.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Increased_Reinforcement_Budget
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -395,7 +395,7 @@ Equips Helldiver uniforms with form-fitting, automated, rapid-response fire supp
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/integrated-extinguishers.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Integrated_Extinguishers
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -432,7 +432,7 @@ Increases the time between enemy encounters.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/localization-confusion.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Localization_Confusion
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -469,7 +469,7 @@ Allows all Helldivers to recover faster after being slowed by an attack, such as
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/motivational-shocks.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Motivational_Shocks
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -506,7 +506,7 @@ Allows Helldivers to traverse difficult terrain with ease.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/muscle-enhancement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Muscle_Enhancement
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -543,7 +543,7 @@ Large enemies now have a chance of dropping Samples on death. Capped at 10 drops
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/sample-extricator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Sample_Extricator
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -580,7 +580,7 @@ The Sample scanner gives you a 15% chance to receive twice the Samples on sample
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/sample-scanner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Sample_Scanner
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -617,7 +617,7 @@ Increases all Helldivers' stamina capacity and recovery.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/stamina-enhancement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Stamina_Enhancement
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -654,7 +654,7 @@ Exposes Hellpod wiring upon surface contact, stunning any units in the vicinity 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/stun-pods.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Stun_Pods
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -691,7 +691,7 @@ Grants two free uses of the Expendable Anti-Tank (EAT) Stratagem per mission; en
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/surplus-eat-allocation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Surplus_EAT_Allocation
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -728,7 +728,7 @@ Increases all Helldivers' effective radar range.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/uav-recon-booster.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/UAV_Recon_Booster
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -765,7 +765,7 @@ Provides minor damage reduction from all sources for all Helldivers.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/boosters/vitality-enhancement.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/Vitality_Enhancement
-- 数据版本：`2026-10-28.584abe6a`
+- 数据版本：`2026-10-30.c9b85ffc`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
