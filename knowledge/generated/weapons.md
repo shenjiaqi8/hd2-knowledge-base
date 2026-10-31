@@ -231,7 +231,7 @@ The AR-11 Arbitrator is a Primary Assault Rifle equipped with an underslung shot
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-11-arbitrator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-11_Arbitrator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -343,7 +343,7 @@ The AR-2 Coyote is a Primary Assault Rifle that fires Medium armor penetration i
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-2-coyote.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-2_Coyote
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -410,7 +410,7 @@ The AR-23 Liberator is a Primary Assault Rifle, available for all Helldivers.
 | `projectile.pellets` | — |
 | `projectile.massG` | 4.5 |
 | `projectile.initialVelocityMps` | 900 |
-| `projectile.dragFactorPct` | 30 |
+| `projectile.dragFactorPct` | — |
 | `projectile.gravityFactorPct` | 100 |
 | `projectile.penetrationSlowdownPct` | 25 |
 | `area` | — |
@@ -436,7 +436,7 @@ The AR-23 Liberator is a Primary Assault Rifle, available for all Helldivers.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-23-liberator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-23_Liberator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -530,7 +530,7 @@ The AR-23A Liberator Carbine is a Primary Assault Rifle, a carbine variant of th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-23a-liberator-carbine.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-23A_Liberator_Carbine
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -624,7 +624,7 @@ The AR-23C Liberator Concussive is Primary Assault Rifle, a variant of the stand
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-23c-liberator-concussive.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-23C_Liberator_Concussive
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -715,7 +715,7 @@ The AR-23L Liberator Legacy is a Primary Assault Rifle, available for all Helldi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-23l-liberator-legacy.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-23L_Liberator_Legacy
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -809,7 +809,7 @@ The AR-23P Liberator Penetrator is a Primary Assault Rifle, a variant of the sta
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-23p-liberator-penetrator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-23P_Liberator_Penetrator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -921,7 +921,7 @@ The AR-32 Pacifier is a Primary Assault Rifle that fires Medium armor penetratio
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-32-pacifier.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-32_Pacifier
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1015,7 +1015,7 @@ The AR-59 Suppressor is a Primary Assault Rifle, equipped with a suppressor for 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-59-suppressor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-59_Suppressor
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1109,7 +1109,7 @@ The AR-61 Tenderizer is a Primary Assault Rifle that fires Light-armor penetrati
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-61-tenderizer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR-61_Tenderizer
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1246,7 +1246,7 @@ The AR/GL-21 One-Two is a Primary Assault Rifle equipped with an underbarrel gre
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ar-gl-21-one-two.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/AR/GL-21_One-Two
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1353,7 +1353,7 @@ The ARC-12 Blitzer is an Primary Energy-Based shotgun that fires arcs of electri
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/arc-12-blitzer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/ARC-12_Blitzer
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1447,7 +1447,7 @@ The BR-14 Adjudicator is a Primary Assault Rifle. It fires Medium armor penetrat
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/br-14-adjudicator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/BR-14_Adjudicator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1561,7 +1561,7 @@ The CB-9 Exploding Crossbow is a Primary Explosive weapon. It fires explosive-ti
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cb-9-exploding-crossbow.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CB-9_Exploding_Crossbow
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1626,7 +1626,7 @@ The CQC-19 Stun Lance is a Melee Secondary Weapon. Attacking will thrust the lan
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-19-stun-lance.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-19_Stun_Lance
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1691,7 +1691,7 @@ The CQC-2 Saber is a Melee Secondary Weapon. Attacking will rapidly swing the sa
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-2-saber.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-2_Saber
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1756,7 +1756,7 @@ The CQC-30 Stun Baton is a Melee Secondary Weapon. Attacking will rapidly swing 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-30-stun-baton.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-30_Stun_Baton
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1821,7 +1821,7 @@ The CQC-42 Machete is a Melee Secondary Weapon. Attacking will slowly swing the 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-42-machete.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-42_Machete
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1886,7 +1886,7 @@ The CQC-5 Combat Hatchet is a Melee Secondary Weapon. Attacking will rapidly swi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-5-combat-hatchet.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-5_Combat_Hatchet
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -1980,7 +1980,7 @@ The DBS-2 Double Freedom is a double-barreled Primary Shotgun, compensating its 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/dbs-2-double-freedom.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/DBS-2_Double_Freedom
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2047,7 +2047,7 @@ The CQC-73 Entrenchment Tool is a Melee Secondary Weapon that doubles as a shove
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-73-entrenchment-tool.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-73_Entrenchment_Tool
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2190,7 +2190,7 @@ The FLAM-66 Torcher is a Primary Special flamethrower.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/flam-66-torcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/FLAM-66_Torcher
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2279,7 +2279,7 @@ The G-10 Incendiary is a Standard Throwable that trades direct explosive damage 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-10-incendiary.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-10_Incendiary
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2368,7 +2368,7 @@ The G-109 Urchin is a Special Throwable that can stick and inflict stun to a sin
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-109-urchin.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-109_Urchin
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2457,7 +2457,7 @@ The G-11 Caltrops is a Special Throwable that deploys a field of proximity stun 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-11-caltrops.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-11_Caltrops
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2527,7 +2527,7 @@ The G-12 High Explosive is a Standard Throwable with a high damaging, heavy armo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-12-high-explosive.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-12_High_Explosive
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2634,7 +2634,7 @@ The G-123 Thermite is a Special Throwable that can stick and inflict heavy explo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-123-thermite.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-123_Thermite
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2723,7 +2723,7 @@ The G-13 Incendiary Impact is a Special Throwable that combines the characterist
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-13-incendiary-impact.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-13_Incendiary_Impact
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2830,7 +2830,7 @@ The G-142 Pyrotech is a Special Throwable that trades direct explosive damage fo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-142-pyrotech.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-142_Pyrotech
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2901,7 +2901,7 @@ The G-16 Impact is a Special Throwable that explodes on impact with a surface or
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-16-impact.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-16_Impact
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -2990,7 +2990,7 @@ The G-23 Stun is a Special Throwable that creates a non-lethal explosion, stunni
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-23-stun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-23_Stun
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3061,7 +3061,7 @@ The G-3 Smoke is a Special Throwable that is used to create a temporary smoke sc
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-3-smoke.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-3_Smoke
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3168,7 +3168,7 @@ The G-31 Arc is a Special Throwable that fires arcs in a similar manner to the D
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-31-arc.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-31_Arc
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3275,7 +3275,7 @@ The G-4 Gas (or Gas Grenade) is a Special Throwable that releases a cloud of Gas
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-4-gas.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-4_Gas
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3346,7 +3346,7 @@ The G-48 Giga Grenade is a Special Throwable with a wide and high damaging explo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-48-giga-grenade.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-48_Giga_Grenade
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3417,7 +3417,7 @@ The G-50 Seeker (simply known as a Seeker) is a Special Throwable in Helldivers 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-50-seeker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-50_Seeker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3511,7 +3511,7 @@ The G-6 Frag is a Standard Throwable with a large explosive radius, producing sh
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-6-frag.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-6_Frag
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3582,7 +3582,7 @@ The G-60 Anti-Tank Seeker (also known as the AT Seeker) is a Special Throwable i
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-60-anti-tank-seeker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-60_Anti-Tank_Seeker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3696,7 +3696,7 @@ The G-7 Pineapple is a Standard Throwable that explodes into several bomblets wi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-7-pineapple.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-7_Pineapple
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3783,7 +3783,7 @@ The G-8 Immolation is a Special Throwable that explodes into a massive pool of f
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-8-immolation.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-8_Immolation
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3854,7 +3854,7 @@ The G-89 Smokescreen is a Special Throwable that is used to create a temporary s
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-89-smokescreen.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G-89_Smokescreen
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3943,7 +3943,7 @@ The G/40-K Melta Mine is a Special Throwable that deploys a proximity mine which
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-40-k-melta-mine.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G/40-K_Melta_Mine
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -3992,7 +3992,7 @@ The G/SH-39 Shield is a Special Throwable that projects a small bubble shield wi
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/g-sh-39-shield.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/G/SH-39_Shield
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4106,7 +4106,7 @@ GL-15 Evictor is a Explosive primary weapon that fires high-damaging grenades th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/gl-15-evictor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GL-15_Evictor
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4220,7 +4220,7 @@ The Ultimatum is a Secondary Special, powerful single-shot weapon that fires ext
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/gp-20-ultimatum.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GP-20_Ultimatum
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4334,7 +4334,7 @@ The GP-31 Grenade Pistol is a Secondary Special single-shot weapon that fires a 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/gp-31-grenade-pistol.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/GP-31_Grenade_Pistol
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4428,7 +4428,7 @@ The JAR-5 Dominator is a Primary Special weapon that fires highly damaging round
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/jar-5-dominator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/JAR-5_Dominator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4497,7 +4497,7 @@ The K-2 Throwing Knife is a Special Throwable that can be used for silent takedo
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/k-2-throwing-knife.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/K-2_Throwing_Knife
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4591,7 +4591,7 @@ The LAS-12 Sai is an Primary Energy-Based submachine gun with high damage output
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-12-sai.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-12_Sai
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4680,7 +4680,7 @@ The LAS-13 Trident is a Primary Energy-Based shotgun in Helldivers 2. It fires m
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-13-trident.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-13_Trident
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4774,7 +4774,7 @@ The LAS-16 Sickle is a Primary Energy-Based weapon that operates like an Assault
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-16-sickle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-16_Sickle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -4937,7 +4937,7 @@ The LAS-17 Double-Edge Sickle is a Primary Energy-Based weapon that operates lik
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-17-double-edge-sickle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-17_Double-Edge_Sickle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5044,7 +5044,7 @@ The LAS-5 Scythe is a Primary Energy-Based laser rifle with infinite ammo. The w
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-5-scythe.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-5_Scythe
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5138,7 +5138,7 @@ The LAS-58 Talon is a Secondary Special, energy-based semi-automatic laser revol
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-58-talon.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-58_Talon
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5245,7 +5245,7 @@ The LAS-7 Dagger is a Secondary Special energy-based laser pistol with infinite 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/las-7-dagger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/LAS-7_Dagger
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5339,7 +5339,7 @@ The M6C/SOCOM Pistol is a Secondary Pistol with a suppressor and relatively high
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/m6c-socom-pistol.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M6C/SOCOM_Pistol
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5433,7 +5433,7 @@ The M7S SMG is a Primary Submachine Gun with a moderate rate of fire and suppres
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/m7s-smg.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M7S_SMG
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5527,7 +5527,7 @@ The M90A Shotgun is a Primary Shotgun, able to inflict extremely high damage per
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/m90a-shotgun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/M90A_Shotgun
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5621,7 +5621,7 @@ The MA5C Assault Rifle is a Primary Assault Rifle. It has an attached electronic
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ma5c-assault-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MA5C_Assault_Rifle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5714,7 +5714,7 @@ The MP-98 Knight is a Primary Submachine Gun with an extremely high rate of fire
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/mp-98-knight.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/MP-98_Knight
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5808,7 +5808,7 @@ The P-11 Stim Pistol is a Secondary Special weapon that fires healing Stim round
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-11-stim-pistol.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-11_Stim_Pistol
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5902,7 +5902,7 @@ The P-113 Verdict is a Secondary Pistol that inflicts high damage per round in e
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-113-verdict.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-113_Verdict
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -5996,7 +5996,7 @@ The P-19 Redeemer is a semi-automatic and fully-automatic hybrid Secondary Pisto
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-19-redeemer.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-19_Redeemer
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6089,7 +6089,7 @@ The P-2 Peacemaker is the starting Secondary Pistol for every Helldiver.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-2-peacemaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-2_Peacemaker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6226,7 +6226,7 @@ The P-33 Missile Pistol is a Secondary Special single-shot weapon that fires gui
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-33-missile-pistol.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-33_Missile_Pistol
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6376,7 +6376,7 @@ The P-34 Breacher is a Special Secondary single-shot weapon that fires an explos
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-34-breacher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-34_Breacher
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6506,7 +6506,7 @@ The P-35 Re-Educator is a Secondary Special pistol that fires Gas darts to disor
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-35-re-educator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-35_Re-Educator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6600,7 +6600,7 @@ The P-4 Senator is a Secondary Pistol that can penetrate heavy armor and deals a
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-4-senator.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-4_Senator
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6694,7 +6694,7 @@ The P-44 Mist is a fully automatic Secondary Pistol.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-44-mist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-44_Mist
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6788,7 +6788,7 @@ The P-69 Veto is a Secondary Pistol with an internal magazine and jet-assisted r
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-69-veto.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-69_Veto
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -6931,7 +6931,7 @@ The P-72 Crisper is a Secondary Special handheld flamethrower that can be wielde
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-72-crisper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-72_Crisper
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7048,7 +7048,7 @@ The P-92 Warrant is a Secondary Pistol. It has the ability to target enemies wit
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-92-warrant.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P-92_Warrant
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7162,7 +7162,7 @@ The P/40-K Bolt Pistol is a Secondary Pistol that fires large caliber rounds wit
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/p-40-k-bolt-pistol.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/P/40-K_Bolt_Pistol
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7276,7 +7276,7 @@ The PLAS-1 Scorcher is a Primary Energy-Based weapon that fires explosive energy
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/plas-1-scorcher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PLAS-1_Scorcher
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7433,7 +7433,7 @@ The PLAS-101 Purifier is a Primary Energy-Based weapon that can fire variable-ch
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/plas-101-purifier.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PLAS-101_Purifier
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7500,7 +7500,7 @@ The PLAS-15 Loyalist is a Secondary Special pistol that fires explosive plasma p
 | `projectile.pellets` | — |
 | `projectile.massG` | 25 |
 | `projectile.initialVelocityMps` | 550 |
-| `projectile.dragFactorPct` | 150 |
+| `projectile.dragFactorPct` | — |
 | `projectile.gravityFactorPct` | 100 |
 | `projectile.penetrationSlowdownPct` | 35 |
 | `area` | — |
@@ -7543,7 +7543,7 @@ The PLAS-15 Loyalist is a Secondary Special pistol that fires explosive plasma p
 | `projectile.pellets` | — |
 | `projectile.massG` | 25 |
 | `projectile.initialVelocityMps` | 350 |
-| `projectile.dragFactorPct` | 150 |
+| `projectile.dragFactorPct` | — |
 | `projectile.gravityFactorPct` | 100 |
 | `projectile.penetrationSlowdownPct` | 35 |
 | `area` | — |
@@ -7572,49 +7572,6 @@ The PLAS-15 Loyalist is a Secondary Special pistol that fires explosive plasma p
 | `forces.push` | 30 |
 
 
-#### 5. PLAS-15 P（projectile）
-
-| 字段 | 数值 |
-|---|---|
-| `damage.standard` | 100 |
-| `damage.durable` | 50 |
-| `damage.type` | Ballistic |
-| `penetration.direct` | light |
-| `penetration.slightAngle` | light |
-| `penetration.largeAngle` | light |
-| `penetration.extremeAngle` | unarmored |
-| `projectile.pellets` | — |
-| `projectile.massG` | 10 |
-| `projectile.initialVelocityMps` | 550 |
-| `projectile.dragFactorPct` | 100 |
-| `projectile.gravityFactorPct` | 50 |
-| `projectile.penetrationSlowdownPct` | 35 |
-| `area` | — |
-| `forces.demolition` | 10 |
-| `forces.stagger` | 20 |
-| `forces.push` | 10 |
-
-
-#### 6. PLAS-15 P IE（explosion）
-
-| 字段 | 数值 |
-|---|---|
-| `damage.standard` | 25 |
-| `damage.durable` | 25 |
-| `damage.type` | Explosion |
-| `penetration.direct` | — |
-| `penetration.slightAngle` | — |
-| `penetration.largeAngle` | — |
-| `penetration.extremeAngle` | — |
-| `projectile` | — |
-| `area.innerRadiusM` | 0.75 |
-| `area.outerRadiusM` | 1.5 |
-| `area.shockwaveRadiusM` | 2 |
-| `forces.demolition` | 10 |
-| `forces.stagger` | 10 |
-| `forces.push` | 5 |
-
-
 ### 获取方式
 
 | 字段 | 数值 |
@@ -7633,7 +7590,7 @@ The PLAS-15 Loyalist is a Secondary Special pistol that fires explosive plasma p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/plas-15-loyalist.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PLAS-15_Loyalist
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7747,7 +7704,7 @@ The PLAS-39 Accelerator Rifle is a Primary Energy-Based, burst-firing plasma sni
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/plas-39-accelerator-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/PLAS-39_Accelerator_Rifle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7859,7 +7816,7 @@ The R-2 Amendment is a Primary Marksman Rifle that can fire in semi-automatic or
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-2-amendment.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-2_Amendment
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -7970,7 +7927,7 @@ The R-2124 Constitution is a bolt-action Primary Marksman Rifle reminiscent of p
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-2124-constitution.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-2124_Constitution
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8107,7 +8064,7 @@ R-36 Eruptor is a Primary Explosive weapon that fires jet-assisted shells which 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-36-eruptor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-36_Eruptor
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8218,7 +8175,7 @@ The R-4 Hyena is a Primary Marksman Rifle similar to the R-63CS Diligence Counte
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-4-hyena.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-4_Hyena
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8312,7 +8269,7 @@ The R-40 Sightliner is a Primary bolt-action Sniper Rifle.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-40-sightliner.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-40_Sightliner
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8406,7 +8363,7 @@ The R-6 Deadeye is a lever-action Primary Marksman Rifle that trades rate-of-fir
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-6-deadeye.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-6_Deadeye
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8500,7 +8457,7 @@ The R-63 Diligence is a Primary Marksman Rifle that fires high damage shots with
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-63-diligence.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-63_Diligence
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8594,7 +8551,7 @@ The R-63CS Diligence Counter Sniper (DCS) is a Primary Marksman Rifle similar to
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-63cs-diligence-counter-sniper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-63CS_Diligence_Counter_Sniper
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8688,7 +8645,7 @@ The R-72 Censor is a Primary Marksman Rifle equipped with a suppressor for silen
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-72-censor.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R-72_Censor
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8782,7 +8739,7 @@ The R/40-K Hot-Shot Marksman Rifle is a Primary Energy-Based Marksman Rifle that
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/r-40-k-hot-shot-marksman-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/R/40-K_Hot-Shot_Marksman_Rifle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -8917,7 +8874,7 @@ The SG-20 Halt is a dual-tube, pump-action Primary Shotgun. It can switch betwee
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-20-halt.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-20_Halt
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9011,7 +8968,7 @@ The SG-22 Bushwhacker is Secondary Special triple-barreled shotgun.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-22-bushwhacker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-22_Bushwhacker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9105,7 +9062,7 @@ The SG-225 Breaker is a fully-automatic, mag-fed Primary Shotgun that is able to
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-225-breaker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-225_Breaker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9217,7 +9174,7 @@ The SG-225IE Breaker Incendiary is a burst fire Primary Shotgun, a variant of th
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-225ie-breaker-incendiary.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-225IE_Breaker_Incendiary
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9311,7 +9268,7 @@ The SG-225SP Breaker Spray&Pray is a fully-automatic Primary Shotgun, a variant 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-225sp-breaker-spray-pray.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-225SP_Breaker_Spray%26Pray
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9423,7 +9380,7 @@ The SG-451 Cookout is a Primary Shotgun, a variant of the standard Punisher that
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-451-cookout.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-451_Cookout
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9517,7 +9474,7 @@ The SG-8 Punisher is a Primary Shotgun, possessing high damage and stagger per s
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-8-punisher.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-8_Punisher
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9610,7 +9567,7 @@ The SG-88 Break-Action Shotgun is a Support Weapon with a 2 shot capacity found 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-88-break-action-shotgun.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-88_Break-Action_Shotgun
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9724,7 +9681,7 @@ The SG-8P Punisher Plasma is a Primary Energy-Based weapon, a variant of the sta
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-8p-punisher-plasma.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-8P_Punisher_Plasma
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9818,7 +9775,7 @@ The SG-8S Slugger is a Primary Shotgun, a variant of the standard Punisher that 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-8s-slugger.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-8S_Slugger
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -9930,7 +9887,7 @@ The SG-97 Sweeper is a Primary Shotgun with Medium armor penetrating flechettes,
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sg-97-sweeper.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SG-97_Sweeper
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10024,7 +9981,7 @@ The SMG-203 Gallant is a variant of the MP-98 Knight that sacrifices damage in e
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/smg-203-gallant.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SMG-203_Gallant
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10118,7 +10075,7 @@ The SMG-32 Reprimand is a Primary Submachine Gun with high damage and Medium arm
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/smg-32-reprimand.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SMG-32_Reprimand
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10212,7 +10169,7 @@ The SMG-37 Defender is a Primary Submachine Gun with a moderate rate of fire.
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/smg-37-defender.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SMG-37_Defender
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10324,7 +10281,7 @@ The SMG-72 Pummeler is a Primary Submachine Gun that fires concussive rounds tha
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/smg-72-pummeler.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SMG-72_Pummeler
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10490,7 +10447,7 @@ The SMG/FLAM-34 Stoker is a Primary Submachine Gun that comes equipped with an u
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/smg-flam-34-stoker.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/SMG/FLAM-34_Stoker
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10584,7 +10541,7 @@ The StA-11 SMG is a Primary Submachine Gun with an extremely high rate of fire. 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sta-11-smg.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/StA-11_SMG
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10678,7 +10635,7 @@ The StA-52 Assault Rifle is a Primary Assault Rifle with a drum magazine. It is 
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/sta-52-assault-rifle.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/StA-52_Assault_Rifle
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10749,7 +10706,7 @@ The TED-63 Dynamite is a Standard Throwable with a wide and high damaging explos
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/ted-63-dynamite.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TED-63_Dynamite
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10843,7 +10800,7 @@ The TM-1 Lure Mine is a Special Throwable that lures in enemies before proximity
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/tm-1-lure-mine.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/TM-1_Lure_Mine
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -10909,7 +10866,7 @@ The CQC-72 Entrenchment Tool, is a Melee Support Weapon that doubles as a shovel
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/cqc-72-entrenchment-tool.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/CQC-72_Entrenchment_Tool
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
@@ -11003,7 +10960,7 @@ VG-70 Variable is a Primary Special weapon. It is a seven-barrelled volley gun w
 - 来源数据：[https://github.com/DionathaGoulart/Helldivers-api](https://github.com/DionathaGoulart/Helldivers-api)（基于 [The Helldivers Wiki](https://helldivers.wiki.gg/)）
 - API 记录：https://helldivers-api.dionatha.com.br/v1/weapons/vg-70-variable.json
 - Wiki 词条：https://helldivers.wiki.gg/wiki/VG-70_Variable
-- 数据版本：`2026-10-30.c9b85ffc`
+- 数据版本：`2026-10-31.466deb2c`
 - 许可：CC BY-NC-SA 4.0（以原项目和各 Wiki 页面实际许可为准）；非官方社区数据。
 
 ---
